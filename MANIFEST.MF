@@ -1,0 +1,2882 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 9.3.1
+
+Name: AndroidManifest.xml
+SHA-256-Digest: NYsU3OZvLjrMY0o3900JvbT0qfNEE6CAuF9MOeAXcBU=
+
+Name: META-INF/androidx.activity_activity-compose.version
+SHA-256-Digest: tKlUWjhelwFIK+VqDv7meNRn2cWG7EdvLFmGz6ok6Ww=
+
+Name: META-INF/androidx.activity_activity-ktx.version
+SHA-256-Digest: tKlUWjhelwFIK+VqDv7meNRn2cWG7EdvLFmGz6ok6Ww=
+
+Name: META-INF/androidx.activity_activity.version
+SHA-256-Digest: tKlUWjhelwFIK+VqDv7meNRn2cWG7EdvLFmGz6ok6Ww=
+
+Name: META-INF/androidx.annotation_annotation-experimental.version
+SHA-256-Digest: fQcrSFJrAjlQ5MSNsB6MJzVUpkARGfVpHnWJupvGXZ0=
+
+Name: META-INF/androidx.appcompat_appcompat-resources.version
+SHA-256-Digest: JJGCoBFkuBpfevh+XFzb0zRKgKembfymJM7PsVAbJCA=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA-256-Digest: JJGCoBFkuBpfevh+XFzb0zRKgKembfymJM7PsVAbJCA=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: G3xgY3AYhTTaxVYfuispiAk4KWl/zp5uiDLpKR0k7QA=
+
+Name: META-INF/androidx.autofill_autofill.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.compose.animation_animation-core.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.animation_animation.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.foundation_foundation-layout.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.foundation_foundation.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.material3_material3.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.compose.material_material-icons-core.version
+SHA-256-Digest: Bo6qUmNRxNH2pC95rl+gp9K3RQGggkcn+2uqLbPGHM4=
+
+Name: META-INF/androidx.compose.material_material-icons-extended.versi
+ on
+SHA-256-Digest: Bo6qUmNRxNH2pC95rl+gp9K3RQGggkcn+2uqLbPGHM4=
+
+Name: META-INF/androidx.compose.material_material-ripple.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.runtime_runtime-annotation.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.runtime_runtime-retain.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.runtime_runtime-saveable.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.runtime_runtime.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.ui_ui-geometry.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.ui_ui-graphics.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.ui_ui-text.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.ui_ui-tooling-preview.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.ui_ui-unit.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.ui_ui-util.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.compose.ui_ui.version
+SHA-256-Digest: TpfCULVkgt85AcSZezWpe/0Res0sqhOm6PMCduUHNd8=
+
+Name: META-INF/androidx.core_core-ktx.version
+SHA-256-Digest: BNZZUYoXk9U5YAf8q9ySEajB24QGv04PqAaRcf2wZRg=
+
+Name: META-INF/androidx.core_core-viewtree.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: BNZZUYoXk9U5YAf8q9ySEajB24QGv04PqAaRcf2wZRg=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.customview_customview-poolingcontainer.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.customview_customview.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.dynamicanimation_dynamicanimation.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.emoji2_emoji2-views-helper.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.emoji2_emoji2.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: h5pnoZdEZHnng8jiKlhoH+0yTwnqwc6Aj2paTF4YlK0=
+
+Name: META-INF/androidx.graphics_graphics-path.version
+SHA-256-Digest: ROFh5ElcrCz3hYBD6eZBjpV58N3ProJvmjcmIpaM4GY=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-process.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime-compose.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-compose.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA-256-Digest: 0turD9NscvN4hlruoLsdeyfj4WN6TzsN4KEI7LqLSOE=
+
+Name: META-INF/androidx.loader_loader.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.navigationevent_navigationevent-compose.versio
+ n
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.navigationevent_navigationevent.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.print_print.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.profileinstaller_profileinstaller.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.savedstate_savedstate-compose.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.savedstate_savedstate-ktx.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.startup_startup-runtime.version
+SHA-256-Digest: zFL2eISLgUNzdXtGA4O/YZYOSUPCA3Na3eCjULPlCYk=
+
+Name: META-INF/androidx.tracing_tracing.version
+SHA-256-Digest: HltRzeUVOWqfp2KQnPjKZYTMxWSzJdLuvup2F1/pXE0=
+
+Name: META-INF/androidx.transition_transition.version
+SHA-256-Digest: yx2aMLxKuKOX85t9eGu4KsoLgWB37vw118giAX119qU=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: zFL2eISLgUNzdXtGA4O/YZYOSUPCA3Na3eCjULPlCYk=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.window_window-core.version
+SHA-256-Digest: rLV6cTWy19bmZfZ/BW4hNTAjuTg19U3vGuUjv3bxv7M=
+
+Name: META-INF/androidx.window_window.version
+SHA-256-Digest: rLV6cTWy19bmZfZ/BW4hNTAjuTg19U3vGuUjv3bxv7M=
+
+Name: META-INF/androidx/annotation/annotation/LICENSE.txt
+SHA-256-Digest: gJ+h7SFFD1mCfR6a7HILvEtodDT6Iig8bLXdgqR6ucA=
+
+Name: META-INF/androidx/collection/collection-ktx/LICENSE.txt
+SHA-256-Digest: gJ+h7SFFD1mCfR6a7HILvEtodDT6Iig8bLXdgqR6ucA=
+
+Name: META-INF/androidx/collection/collection/LICENSE.txt
+SHA-256-Digest: gJ+h7SFFD1mCfR6a7HILvEtodDT6Iig8bLXdgqR6ucA=
+
+Name: META-INF/androidx/lifecycle/lifecycle-common-java8/LICENSE.txt
+SHA-256-Digest: gJ+h7SFFD1mCfR6a7HILvEtodDT6Iig8bLXdgqR6ucA=
+
+Name: META-INF/androidx/lifecycle/lifecycle-common/LICENSE.txt
+SHA-256-Digest: gJ+h7SFFD1mCfR6a7HILvEtodDT6Iig8bLXdgqR6ucA=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: NGYGQ+WHfNPNUcotMlC05DWY3MFuUzVAsQNmaiDqKGY=
+
+Name: META-INF/kotlinx_coroutines_android.version
+SHA-256-Digest: dxfL+Qxjo7CWAIdjoCBmI5kW+pkW+YJU0ao7JHCDD80=
+
+Name: META-INF/kotlinx_coroutines_core.version
+SHA-256-Digest: dxfL+Qxjo7CWAIdjoCBmI5kW+pkW+YJU0ao7JHCDD80=
+
+Name: META-INF/services/jadx.api.plugins.JadxPlugin
+SHA-256-Digest: huinUUzrALHKfk7YectVQcEpOgx+7sRMZ3QRoYE9MDE=
+
+Name: META-INF/services/java.nio.charset.spi.CharsetProvider
+SHA-256-Digest: c0rWrHBXWGznQypnzo6NnQgJ5uYOpTXGKJWaUmjPI00=
+
+Name: META-INF/services/v9
+SHA-256-Digest: /8ScqQvWsZujiVwi+yaTgG2QMA93BdOzx/boOkzQZAU=
+
+Name: META-INF/services/z90
+SHA-256-Digest: i//AawHWQNaaZjCriIfNFuGR+ar1n1scdIBDKnA4rhw=
+
+Name: META-INF/version-control-info.textproto
+SHA-256-Digest: V3ophGudKriPAT7VzgzHU1XUz771QO9jfEnJXSM8I28=
+
+Name: android/attrs.xml
+SHA-256-Digest: nn//yHG0HbXFUL5wvoBLuO8jN7rnHTAuwWZhSxocldY=
+
+Name: android/attrs_manifest.xml
+SHA-256-Digest: gWSygpKBYtMtvndcf7lWrb1yQHbY++Uhek41hPXX9EE=
+
+Name: android/res-map.txt
+SHA-256-Digest: lJOXAQ/2tdnRYylF7qu4cTezxyLyUOc5jVEL6tTeJ6I=
+
+Name: assets/Linux-arm/sevenzipjbinding-lib.properties
+SHA-256-Digest: rAM9IzPWNGfV05iYUHDvRCxT5AIkrEkaTr5iZJ4YdYY=
+
+Name: assets/META-INF/MANIFEST.MF
+SHA-256-Digest: h0gaNZldjL5EETcKEitTQA9SpJOctfwpFZStgXlPIrs=
+
+Name: assets/android_tiny.jar
+SHA-256-Digest: 5ajdW+csmWmdfbac2379GoWSpDPaJ2tHAUFJ17mHOiY=
+
+Name: assets/attrs.xml
+SHA-256-Digest: /gqw+r3ho0BZUiv7QJQGfiTFJCuwbiazDfYbMrBsWHg=
+
+Name: assets/attrs_manifest.xml
+SHA-256-Digest: VjVZdO055D1XOpcOjWErz+7XdOOJfu8TGQ43FwkA8rE=
+
+Name: assets/dexopt/baseline.prof
+SHA-256-Digest: yDTldS65UaVNj3RO40+gBPYIe1wxfJWOlB/NKuMt9k4=
+
+Name: assets/dexopt/baseline.profm
+SHA-256-Digest: Srd/AAO/N1mMg6S1vhrU5MbGtcw5Dg1VQBtFfUDIQ5g=
+
+Name: assets/framework_resources.txt
+SHA-256-Digest: bm7TnKZ6Jb+mo2jN4iQ8nTnKxNILLQUHDGN/DGx7yQo=
+
+Name: assets/inst.7z
+SHA-256-Digest: qfbI1Mk9sSTc81yMrjhxv9kSLGMHZaYS4sU3bRvi/0A=
+
+Name: assets/no_nameSpace_attrs.txt
+SHA-256-Digest: 4Ri9V1QWV45XdS0Qid5gYvG3b/cAPPbIu3YN9Iu1NDs=
+
+Name: assets/permissions_info_en.txt
+SHA-256-Digest: rcQzTE4emkqZgZJv9BLB8TN34UT5X3Y5n9GhfRGjvb8=
+
+Name: assets/r_values.ini
+SHA-256-Digest: UvcKL9KB0+XoIigT/Sho+/Vh7xh15EEFBzZ0Yu5mkvo=
+
+Name: assets/resources.arsc
+SHA-256-Digest: nJo5nzAKaXDQsqtMSCS+LRuH3pFVhdGY/wIKZCygp8c=
+
+Name: assets/reverse.jks
+SHA-256-Digest: xsvyCXGRMx0/2ZQZzdJpy4dB/b87ddV204HPJ40vFRI=
+
+Name: assets/reverse.p12
+SHA-256-Digest: lXyE/3uN1zk2MbC2SaPobA7ammWdnRLFOegAWnW6fHk=
+
+Name: assets/sevenzipjbinding-platforms.properties
+SHA-256-Digest: +0x3qpDc8xFgmkxDhbv0J3kuXU0s2+50SsAG5cnBYjQ=
+
+Name: assets/sleigh.zip
+SHA-256-Digest: JNasJZmR1hkcFbblqg2eLlPAtZcVdQmS8YE0zS7IyW8=
+
+Name: assets/styleables.txt
+SHA-256-Digest: v5vT2kH9XPH3DnYXttk7aFS1pPwEz3oJoVZ0gujtqR8=
+
+Name: assets/textmate/asm/language-configuration.json
+SHA-256-Digest: UJIQFQxY4qrS6Gt+9YpzyFFGbCMuhDCBjX0e0FNodSY=
+
+Name: assets/textmate/asm/syntaxes/arm.tmlanguage.json
+SHA-256-Digest: KmQzjtLNjx8JvAukqeHJ/dqDZRDhubDJP98eFFKCXuM=
+
+Name: assets/textmate/ayu-dark.json
+SHA-256-Digest: 5g6oCjjEOUGgxUXRdjHMLZPBw5ND/XSWcdCnn6pBwtY=
+
+Name: assets/textmate/c/language-configuration.json
+SHA-256-Digest: Ke7MBYFuUT2boyeBv/t0IA/pwYr2Y/XwXEWc7NoqARY=
+
+Name: assets/textmate/c/syntaxes/c.tmLanguage.json
+SHA-256-Digest: nQowW8ZZVSb/wGgOzL8joSUS3tmaYy2fHeqzzoG2KVc=
+
+Name: assets/textmate/darcula.json
+SHA-256-Digest: vAZKyQqEXVB0hwKeVmli8D9/TUsv4L8CBsJ4EpLKkJY=
+
+Name: assets/textmate/hex/language-configuration.json
+SHA-256-Digest: jddiTw0INIiiR4Hlz/U/Mbxj3p0qI3ps4Jnw8kgQYd0=
+
+Name: assets/textmate/hex/language-configuration.json.bak
+SHA-256-Digest: T2f//Zgn2YEiTuM6ywkSk3PSvOuhQBhdKWVJ66RySdI=
+
+Name: assets/textmate/hex/syntaxes/hexdump.tmLanguage.json
+SHA-256-Digest: kblK0D5EaZ59vWXINzWjuEu+CTBwfqk5B5bfBnQtPDs=
+
+Name: assets/textmate/hex/syntaxes/hexdump.tmLanguage.txt.bak
+SHA-256-Digest: Bvx+Pi9rIW6TRDxS9CFf1conTdDM9Hvt9fHCYR3UUSg=
+
+Name: assets/textmate/java/language-configuration.json
+SHA-256-Digest: a+GCmvJUVRFpBYLsuKRKlULhiIUXsgGgjDMvZ+48Si0=
+
+Name: assets/textmate/java/syntaxes/java.tmLanguage.json
+SHA-256-Digest: rBnGDL0e42T9pZslcjClGeOI83ZC05oA5b7sJ0MgwV0=
+
+Name: assets/textmate/json/language-configuration.json
+SHA-256-Digest: tNnsseDGJis0jlDPDEygFH4XUzwDT2c4YUBLaBjk4m0=
+
+Name: assets/textmate/json/syntaxes/json.tmLanguage.json
+SHA-256-Digest: WtWo6Vkbl6lSg9lnzt4I69j44Ppwr+K+sSNwzsF8oVg=
+
+Name: assets/textmate/languages.json
+SHA-256-Digest: rH3ZZzDNTGky2j/3jsPcz+ymd6fd3Dbkn/z02C07jlA=
+
+Name: assets/textmate/quietlight.json
+SHA-256-Digest: rPs5Xsev52sYfPjBqn7f7lrNWqcuY4eqUBDIV1YlnNw=
+
+Name: assets/textmate/smali/language-configuration.json
+SHA-256-Digest: BIauAu3W1qfe4rcpkb+xWir+YhAPORRCqlcLs1acItU=
+
+Name: assets/textmate/smali/syntaxes/smali.tmLanguage.json
+SHA-256-Digest: qDaEjVjU0LepclDoy/+xPyVb2m9hC6u3/hO1ecSxmEs=
+
+Name: assets/textmate/solarized_dark.json
+SHA-256-Digest: +QWlpaIRR0YmaXzO9/V/DHHm0F4RM+mhE/0KwPH0JGg=
+
+Name: assets/textmate/xml/language-configuration.json
+SHA-256-Digest: JeJXEzq8vDlTq4/u3ehlq54p8rRwt8m4UEBiA1qfGrY=
+
+Name: assets/textmate/xml/syntaxes/xml.tmLanguage.json
+SHA-256-Digest: EMQNrXDmssRvo8hi82EXZASQQ/xv5G8P/B285x/Pypw=
+
+Name: assets/widgets.txt
+SHA-256-Digest: WwiNLs06J+aMqW2Yh/l0IUYUHcpJELn05sRTbh16Zao=
+
+Name: baksmali.properties
+SHA-256-Digest: ROBufuPd9shzHnzHjrtfqBvHnXxgBLA6MFg7EdCBlMo=
+
+Name: bundle.properties
+SHA-256-Digest: lUEeKjtcW6tkxmMXioWvQPDDrY0Soqu367r0zMSfb8Y=
+
+Name: classes.dex
+SHA-256-Digest: xdF0nlTgzA0PpisvGHBnKW+Y2MUyEPXm84TmwvDrV+k=
+
+Name: classes2.dex
+SHA-256-Digest: J2KugcbphIvinkTxSb+VgQfrbLFEvjvzLd5q2s/JyRY=
+
+Name: classes3.dex
+SHA-256-Digest: 8DImr02rvYS9icWYsV4693CcSLMhTVCAsCgS5OlWqHo=
+
+Name: classes4.dex
+SHA-256-Digest: tOSOw78DMypXrmb4QlB05lourIm9am5VXLSeukewuV4=
+
+Name: clst/core.jcst
+SHA-256-Digest: FiaOrxNOuJL6oTFjWdfm/+w+SMuVnDCORc+12p0idM4=
+
+Name: jadx/core/deobf/conditions/tlds.txt
+SHA-256-Digest: ZYOeWtst8RVQkwHcq7Zy3cN4qeY1IKwm7IqQFgLzTEk=
+
+Name: javabase.txt
+SHA-256-Digest: YyJHD+xQVmKDEATwj5jQXlDLkPuvm7b86yzdGMdsuRg=
+
+Name: lexer.dat
+SHA-256-Digest: aXhZAeA2H79bp2dCJ/c3YwcAt5HhfyER7GUUcURtuMA=
+
+Name: lib/arm64-v8a/lib7-Zip-JBinding.so
+SHA-256-Digest: cCOqemcHQznkfZAr/5CQBNxJaEyr2W1XU8z9BGxUfEU=
+
+Name: lib/arm64-v8a/libaapt2.so
+SHA-256-Digest: flri4fYvwkyrFAclVf/QoafhzifoLMEAiWe4NbbY31s=
+
+Name: lib/arm64-v8a/libandroid-reverse-native.so
+SHA-256-Digest: QIKwtmsBF70ekItHEeL0kpv69nO8fbTYtMqEEWeKhZg=
+
+Name: lib/arm64-v8a/libandroidx.graphics.path.so
+SHA-256-Digest: Qemnk8Q6D0/dsZ4z80a6zkZPMPiIunuer5YpTqEVv7Y=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA-256-Digest: 4JwvRc9M+K5XT5S2wmUNmerQ0zLVOW9mE/BiotLXNUA=
+
+Name: lib/arm64-v8a/libcore_ghidra.so
+SHA-256-Digest: +LRfnEYO6LiW+yPQ014qHu1aF9xFoZ3gmqbJKmuIBvg=
+
+Name: lib/arm64-v8a/libengine.so
+SHA-256-Digest: 8X2gVi0SjlhG3t1LwSzlD1sH0MYRluTQN1q0tJKH220=
+
+Name: lib/arm64-v8a/libkrak2.so
+SHA-256-Digest: mf87zgrqFNhUBpN5LybCG6DcoRV2+aLO64pDqMHxJAQ=
+
+Name: lib/arm64-v8a/libr2.so
+SHA-256-Digest: DhSYr93TqW8ql45UQ+ksCeTIHgtzVUuhipfSE0PChhI=
+
+Name: lib/arm64-v8a/libr_anal.so
+SHA-256-Digest: /dl+cVSqfvOP0AFkTy0ETKbob9Q7s9m93BmDDloC/ZY=
+
+Name: lib/arm64-v8a/libr_arch.so
+SHA-256-Digest: s/vJM1PpZy0dBpGRXkgOsG+/BfW0KpoFiwpzGP+Xpmk=
+
+Name: lib/arm64-v8a/libr_asm.so
+SHA-256-Digest: 3ZdHy7Hlhx7/BP50sV22dcjmmO1pwtaInaMHRwtqTY8=
+
+Name: lib/arm64-v8a/libr_bin.so
+SHA-256-Digest: c3iK1AMNHqtMmd1A5PjiY9kKXGChTAOmIBWqa3igfVM=
+
+Name: lib/arm64-v8a/libr_bp.so
+SHA-256-Digest: GktalB8sS3lFEpOyx19eiBBIuBaRzW6xKCdiypBeRWk=
+
+Name: lib/arm64-v8a/libr_config.so
+SHA-256-Digest: 9BlxkoYT/VziO7d07DqLhI6IHOW9wIc2jtFvIalpz2E=
+
+Name: lib/arm64-v8a/libr_cons.so
+SHA-256-Digest: NH1dvZ96wWuwp0NdDf9FtP9BGqNCsYugN9abdGKOe9w=
+
+Name: lib/arm64-v8a/libr_core.so
+SHA-256-Digest: tCTnQCU6ZBkenu8JELrC6Q9L9BC1DYVdpZoc5ERK+K8=
+
+Name: lib/arm64-v8a/libr_debug.so
+SHA-256-Digest: UYibXro1GWNrl3pqlwaQ+gXTs8aOQLq2lj2bfUZvDmI=
+
+Name: lib/arm64-v8a/libr_egg.so
+SHA-256-Digest: 06uon/N+vA05a4nyVjDvwkqP51IXE892Oc/ibtq8FBM=
+
+Name: lib/arm64-v8a/libr_esil.so
+SHA-256-Digest: v1Acffn5q7KEzDYTWkgldsy2QWFeeVkm5Km7/fU9QZ0=
+
+Name: lib/arm64-v8a/libr_flag.so
+SHA-256-Digest: AeU8jdX191QgpoTAKIraMXoOcCq3D/qftB8GWujxGlI=
+
+Name: lib/arm64-v8a/libr_fs.so
+SHA-256-Digest: lhfjVUoSXF6S8WFX9dRvUE2X6rr+vyakIgvyOC3nk6A=
+
+Name: lib/arm64-v8a/libr_io.so
+SHA-256-Digest: EDoEj1SQpaAb0yj7J1NJ66aA/0h65Iub7vMrFbLBNIM=
+
+Name: lib/arm64-v8a/libr_lang.so
+SHA-256-Digest: n/iFzf1SnXELsliGK6I4DjSuetiIcmWFPL0pbBi0wjE=
+
+Name: lib/arm64-v8a/libr_magic.so
+SHA-256-Digest: SKZQKCYwOmZouZ4BPgCzulaSOz5BPsTR1QVHc1gYTYQ=
+
+Name: lib/arm64-v8a/libr_main.so
+SHA-256-Digest: L1xs9eXWwsBA+sHaknyQ0jQDQjGQmi/L1PH08FEqlDE=
+
+Name: lib/arm64-v8a/libr_muta.so
+SHA-256-Digest: bIV3gH2ioJMVgQpvi8hw34V83JSG48ompwEEyYKCTRc=
+
+Name: lib/arm64-v8a/libr_reg.so
+SHA-256-Digest: eH6ov/i4dRASItmaUeWU1SAkTHZlCdwE16w0P02YCo0=
+
+Name: lib/arm64-v8a/libr_search.so
+SHA-256-Digest: +6MtriWaJz08GfWMr/kNeA340wKaCQXQcqjaa00C6No=
+
+Name: lib/arm64-v8a/libr_socket.so
+SHA-256-Digest: CKpHpqdcZQ2NCnTlYYAYXegX9xlMFxlIcBm/KOF9Xi8=
+
+Name: lib/arm64-v8a/libr_syscall.so
+SHA-256-Digest: su6gs3X1qN2Mi5XALUr42KIWFbW/JUpxA1UhqXyHnO8=
+
+Name: lib/arm64-v8a/libr_util.so
+SHA-256-Digest: 4ZgOFr8QTSJRMOf6rn94HUcMIunSwwtFTJPnhiQfpzU=
+
+Name: lib/arm64-v8a/librodroid_il2cppdumper.so
+SHA-256-Digest: 7uuDg/5kGQi3pG6AT8IP0pQKqZihha4hRAsOP9G0gqw=
+
+Name: lib/arm64-v8a/libunflutter.so
+SHA-256-Digest: Z4zGiJQ39luzKCRi/uPcnVaewr7wXXGXg6fhjz2dx6c=
+
+Name: org/antlr/antlr.properties
+SHA-256-Digest: fw+lI98HbPTA2eA8jeWBPMNGpXCiMR2EG7MoAFfAwqQ=
+
+Name: org/antlr/codegen/templates/ActionScript/AST.stg
+SHA-256-Digest: bOjI7O/4fygXPUbmN8ZihfehnZ8q8Kcu8g4rJdea1V8=
+
+Name: org/antlr/codegen/templates/ActionScript/ASTParser.stg
+SHA-256-Digest: o8+Dq7QNVfNlugXFCCR4b7Go+5H8QMXOcLidFR83pOs=
+
+Name: org/antlr/codegen/templates/ActionScript/ASTTreeParser.stg
+SHA-256-Digest: uajw4w+xccZxNMDkBJxvB+AV3zzfQSaeOaipDIsg+vk=
+
+Name: org/antlr/codegen/templates/ActionScript/ActionScript.stg
+SHA-256-Digest: zdPXxHoJb149lz5IZudQ2/PKEeM6Cq5OdXiknaDPLP8=
+
+Name: org/antlr/codegen/templates/C/AST.stg
+SHA-256-Digest: 1qNF1olgOc7m7yEubkLWQvIRA56cXxNaAsAAc++dwxM=
+
+Name: org/antlr/codegen/templates/C/ASTDbg.stg
+SHA-256-Digest: dFeMQeME5C0i6uirHMvs/WEnqasXc+1YOL/1daDPC20=
+
+Name: org/antlr/codegen/templates/C/ASTParser.stg
+SHA-256-Digest: qzsAkDXsteaFPs3ukOV7+BxllCYNwGOuLmXvNqpvIUc=
+
+Name: org/antlr/codegen/templates/C/ASTTreeParser.stg
+SHA-256-Digest: jUXX4LS3FkG5gwwLWqxPydtYeFBj8rmcmm8kX8tVem0=
+
+Name: org/antlr/codegen/templates/C/C.stg
+SHA-256-Digest: M/z/Hfr4j1Cs0zq4sv7aEWZAdWtNaSH8QGOh1mwb3Hk=
+
+Name: org/antlr/codegen/templates/C/Dbg.stg
+SHA-256-Digest: 2o3QjDVd8qvuzkG5aJvvw72Eu7thwSS8hGKi0g+NaPU=
+
+Name: org/antlr/codegen/templates/CSharp2/AST.stg
+SHA-256-Digest: LNL/gkwoFD12UqVLvs4RAJMBmcPzyV29Jq4BidQ2zug=
+
+Name: org/antlr/codegen/templates/CSharp2/ASTDbg.stg
+SHA-256-Digest: 8NMGElrdtP51ukR4plSdorQFGZ58rIBj8kg24WD/D+M=
+
+Name: org/antlr/codegen/templates/CSharp2/ASTParser.stg
+SHA-256-Digest: PXo+5u7X24O2pE2khrF9uvX7Vz+wbDwW1S2Qe+c/oQY=
+
+Name: org/antlr/codegen/templates/CSharp2/ASTTreeParser.stg
+SHA-256-Digest: F2i1Zqp0eTXFzj/acygQndszPx4jzTP1eC9pbPn8kk0=
+
+Name: org/antlr/codegen/templates/CSharp2/CSharp2.stg
+SHA-256-Digest: swWEK+PcgAOydBpSna2f7vI2ghirmB9uKarTh+9svpk=
+
+Name: org/antlr/codegen/templates/CSharp2/Dbg.stg
+SHA-256-Digest: NLmG6hmhb0Ft/OHKtc/WCKoSzgH94x8wCQHq19svvwg=
+
+Name: org/antlr/codegen/templates/CSharp2/ST.stg
+SHA-256-Digest: KK+qCPPrzOW0l3ANp2EpqEPvcuoaotnw+dHGreKJT1w=
+
+Name: org/antlr/codegen/templates/CSharp3/AST.stg
+SHA-256-Digest: 6+LeZnZyJ+M3slcxw9+JjVQQA8v0OOHJD68cPIs/J0M=
+
+Name: org/antlr/codegen/templates/CSharp3/ASTDbg.stg
+SHA-256-Digest: 6t6u44b1sh9lckumVvcZ4Lszf0hhW7bnwTn6W8axm6M=
+
+Name: org/antlr/codegen/templates/CSharp3/ASTParser.stg
+SHA-256-Digest: 21/HwEIkc+YhA0UJ3ZKfeKmZUWgedT448X5mIlf3UMc=
+
+Name: org/antlr/codegen/templates/CSharp3/ASTTreeParser.stg
+SHA-256-Digest: T+KrHDYJi6OJGpjbT5tNH/R6H5CMjF8c3tX6ZiBerRU=
+
+Name: org/antlr/codegen/templates/CSharp3/CSharp3.stg
+SHA-256-Digest: UY5AxUnRDOZ2EbatdNxhnmHrz1keBg4FT1Wp888Fxcs=
+
+Name: org/antlr/codegen/templates/CSharp3/Dbg.stg
+SHA-256-Digest: xBXoSE9RWmV7G45nLYMlgLP/bg4wmQlBIWbD3yjk9mc=
+
+Name: org/antlr/codegen/templates/CSharp3/ST.stg
+SHA-256-Digest: wDnM4AbGfRt1dpy479mtzwNGIbGBBJ52kVkcqdzsr/Q=
+
+Name: org/antlr/codegen/templates/Cpp/Cpp.stg
+SHA-256-Digest: 3zMcUax5YhT36WDLV0ou9nBa5IOmlwPdOvUVcmVq1vA=
+
+Name: org/antlr/codegen/templates/Delphi/AST.stg
+SHA-256-Digest: fCkTJIJbpRQWfqGpYxb28oMrt52iB3IvA8dkZKcLj88=
+
+Name: org/antlr/codegen/templates/Delphi/ASTParser.stg
+SHA-256-Digest: HqYobwe4dK4hv2GS6kQYRQr2W2hO0wKQfIZcveABCGg=
+
+Name: org/antlr/codegen/templates/Delphi/ASTTreeParser.stg
+SHA-256-Digest: zifSAcHdqtPebCtnolBbZT9ipMrx6A1vMyTSx9YjfL8=
+
+Name: org/antlr/codegen/templates/Delphi/Delphi.stg
+SHA-256-Digest: svABOUHnxPFueE1rtpOSoaeNSlhsJ5VhV1L8klsuAns=
+
+Name: org/antlr/codegen/templates/Java/AST.stg
+SHA-256-Digest: K4TYIYHG8ux8oK2BOn4G+ZohxIussKz6qQ5/jc41iPk=
+
+Name: org/antlr/codegen/templates/Java/ASTDbg.stg
+SHA-256-Digest: hud931E0Esyqedg6AEhXKLqkAWFAuMZzK46B/PRSYBQ=
+
+Name: org/antlr/codegen/templates/Java/ASTParser.stg
+SHA-256-Digest: vhqZhZfJGu7ZJnvmIfsKecS4QSPJ92KfLssVi54C9PQ=
+
+Name: org/antlr/codegen/templates/Java/ASTTreeParser.stg
+SHA-256-Digest: R41OaMybSKEdhLIyZnjS7/pYsb4ESROjnX+T7ZdPlho=
+
+Name: org/antlr/codegen/templates/Java/Dbg.stg
+SHA-256-Digest: dbj14QLnT5bkFeAINX1EU7rcnRjdEpB6TjYi62deF2A=
+
+Name: org/antlr/codegen/templates/Java/Java.stg
+SHA-256-Digest: Fts+LatgwD7i80wKr72WGy1dhd7KblY04dZhFwGr47M=
+
+Name: org/antlr/codegen/templates/Java/ST.stg
+SHA-256-Digest: Wmqs7vddFzsSaKzy+zBeNhLIvLgH2IaqVrFqAMOz7U4=
+
+Name: org/antlr/codegen/templates/JavaScript/AST.stg
+SHA-256-Digest: OYsv6lXMdaoULyz/XA14ner93H0sAjPJWsuxovgxx9c=
+
+Name: org/antlr/codegen/templates/JavaScript/ASTParser.stg
+SHA-256-Digest: MYUj9a7Ox5vTiLh9qUcVgz9MfeA7AcC9rgpln99NQwA=
+
+Name: org/antlr/codegen/templates/JavaScript/ASTTreeParser.stg
+SHA-256-Digest: vk0FNBfOdhFbwQjSZ2BbsNOCs4SMgP+F7zqNi/RNP9A=
+
+Name: org/antlr/codegen/templates/JavaScript/JavaScript.stg
+SHA-256-Digest: YU1sBydExGqet7g6cwR2X50sJ0ROfJDVnwYonn5zSXU=
+
+Name: org/antlr/codegen/templates/LeftRecursiveRules.stg
+SHA-256-Digest: 9xLij59WHPPslJLkOZBYJ9OuniPpTS9dSkqNcsWevF8=
+
+Name: org/antlr/codegen/templates/ObjC/AST.stg
+SHA-256-Digest: USDaox0Gq0Xjiv/2b7lrjZ5oVQuD+ozwKbF6dCJDOMc=
+
+Name: org/antlr/codegen/templates/ObjC/ASTDbg.stg
+SHA-256-Digest: SroyUJFtmlnXR7zwesZk84pNJk4qsBIPr3RYini7cLE=
+
+Name: org/antlr/codegen/templates/ObjC/ASTParser.stg
+SHA-256-Digest: oG74ZK5zV4KszIhOznVysfMREPP4+3k4FqS9x8F0XWs=
+
+Name: org/antlr/codegen/templates/ObjC/ASTTreeParser.stg
+SHA-256-Digest: sZfL2cGqitbZOZATVu+G9hT8iNJqFI/C3Lne4YVJ+wo=
+
+Name: org/antlr/codegen/templates/ObjC/Dbg.stg
+SHA-256-Digest: avu5aE6sztIBr8WHK5+0FDpWpqI3nN2vScB7P6DLY6Y=
+
+Name: org/antlr/codegen/templates/ObjC/ObjC.stg
+SHA-256-Digest: bSWe2gE+Otl0YXlb3zTZAovfJVz40EgWxi70j/eCr7M=
+
+Name: org/antlr/codegen/templates/ObjC/ST.stg
+SHA-256-Digest: eV/7mh06PJ9Hi6nvjk/F9y9NyOuvBdvopyHBuji5xcs=
+
+Name: org/antlr/codegen/templates/ObjC/ST4ObjC.stg
+SHA-256-Digest: n2MYf7OyR2fQZiG2mW0IZikfIcotuaJWSlKOJAXnPyA=
+
+Name: org/antlr/codegen/templates/Perl5/ASTTreeParser.stg
+SHA-256-Digest: DJCGdNTCpBPnY5Q7TZJl6ZELu3gMRG7KnQd2FhvbTds=
+
+Name: org/antlr/codegen/templates/Perl5/Perl5.stg
+SHA-256-Digest: MXu5U1le7yuVjcyqqqrTPSUX0HviV4dVv6bK6HvX6o0=
+
+Name: org/antlr/codegen/templates/Python/AST.stg
+SHA-256-Digest: gbCBqbb3m9GmV+Fy8/CaSwhcJ62y4hC1RAcpIh05FxU=
+
+Name: org/antlr/codegen/templates/Python/ASTDbg.stg
+SHA-256-Digest: Z9ouO7LDxvn4KA21gx1ccP1TMdzYjTS08vmD+B8J6vs=
+
+Name: org/antlr/codegen/templates/Python/ASTParser.stg
+SHA-256-Digest: ITOycyS2LSCaN9E/OYS1mz9Prx0/IKZ5TvOxriS+I/M=
+
+Name: org/antlr/codegen/templates/Python/ASTTreeParser.stg
+SHA-256-Digest: 9hnQ0U4BvLfxEH8Vvka+j81YdV979Y+kr2D1p93dROo=
+
+Name: org/antlr/codegen/templates/Python/Dbg.stg
+SHA-256-Digest: CX4StmL1VbA/M7VJMVQT+GId6d9SmnPy/lwf2Grv8Yo=
+
+Name: org/antlr/codegen/templates/Python/Python.stg
+SHA-256-Digest: AYEP1Ci7XExhI9mUdmhQ/7eefpc1cfhhPsQNu6xYYUQ=
+
+Name: org/antlr/codegen/templates/Python/ST.stg
+SHA-256-Digest: obLj1GyRZ1Ok7nIzIoB20MvNSdhHY4S9J/aElskTnEI=
+
+Name: org/antlr/codegen/templates/Python3/AST.stg
+SHA-256-Digest: EJQikcACVIDRhNDMp7lCy1lsjklLgi3rwrgJAQiJs6U=
+
+Name: org/antlr/codegen/templates/Python3/ASTDbg.stg
+SHA-256-Digest: BzYu2Jcnv6kqYAKiR5Wa2uJVHlwqvouC2tkrChXy1vM=
+
+Name: org/antlr/codegen/templates/Python3/ASTParser.stg
+SHA-256-Digest: m6mRGLOGZL0IPZMP0PgYV/aJgDnxoo7SebudpQBJo3g=
+
+Name: org/antlr/codegen/templates/Python3/ASTTreeParser.stg
+SHA-256-Digest: u7ESN5y9wWtQ/A5yTKenGmwU/a528QzaMBH+g1TdhcI=
+
+Name: org/antlr/codegen/templates/Python3/Dbg.stg
+SHA-256-Digest: J7+wrE6xCI4NXBrkJFE59/rwK9eNQT+EshsTc7cKQDg=
+
+Name: org/antlr/codegen/templates/Python3/Python3.stg
+SHA-256-Digest: mzYADnr7e+TgrmZtIyxIGLgIboMLj6p9RDWMA47D/UE=
+
+Name: org/antlr/codegen/templates/Python3/ST.stg
+SHA-256-Digest: OYXahLDETNl3zwU0r5i+Udgf/lQhuSs8DmjGVlvbZA0=
+
+Name: org/antlr/codegen/templates/Ruby/AST.stg
+SHA-256-Digest: +hgPYkttzTcEBr1FN4k+qSFpQ74vWWwgIYoZtewEDNA=
+
+Name: org/antlr/codegen/templates/Ruby/ASTDbg.stg
+SHA-256-Digest: wJIKM1B3yFS+Lh+DsI4b0s2Ui9KJ0J9HSAcxYcJOB/E=
+
+Name: org/antlr/codegen/templates/Ruby/ASTParser.stg
+SHA-256-Digest: Hje8veBxIcCDhJ/L6yRNaQm5akHM6sq7gmNssgIjMt0=
+
+Name: org/antlr/codegen/templates/Ruby/ASTTreeParser.stg
+SHA-256-Digest: m0E0jylic0HF/Tpig9E0eBuwHXiAyd6zG5mrTr+m7L8=
+
+Name: org/antlr/codegen/templates/Ruby/Dbg.stg
+SHA-256-Digest: JzXP/PTIsD1II0Dj4ssoUqZjjWuB+6PAhSZO48yyuG8=
+
+Name: org/antlr/codegen/templates/Ruby/Ruby.stg
+SHA-256-Digest: d3u0Gzzj/ZIYEkYTQmfB09zL1HTSx16IK/djggtTTNw=
+
+Name: org/antlr/codegen/templates/Ruby/ST.stg
+SHA-256-Digest: Kyq3y7tBt7gGr/Nxg2A1uLGTq7VLYDSBpguH+1ieeu8=
+
+Name: org/antlr/codegen/templates/Scala/Scala.stg
+SHA-256-Digest: DRF1FpiAJYV+OJI/j0rgX+LeMtluViedr0t8b1tE8qA=
+
+Name: org/antlr/stringtemplate/language/ActionEvaluatorTokenTypes.txt
+SHA-256-Digest: qxzHyOtUd8vrFQafwBfM1knec0WtXaKJRGNjzfnEMTM=
+
+Name: org/antlr/stringtemplate/language/ActionParserTokenTypes.txt
+SHA-256-Digest: gwAVy8tdtT9i3eP71W99YYHH2IPxnAqjm/ODWTCBDnI=
+
+Name: org/antlr/stringtemplate/language/AngleBracketTemplateLexerToken
+ Types.txt
+SHA-256-Digest: X6bGh5g5nvO7V2//yQmJfAgQa700L59VfSC3FwW+OrU=
+
+Name: org/antlr/stringtemplate/language/GroupParserTokenTypes.txt
+SHA-256-Digest: 2ZxI0qbGFD/JP9nIsA6eDj1KgKJYYDNcDDSVEr30QDI=
+
+Name: org/antlr/stringtemplate/language/InterfaceParserTokenTypes.txt
+SHA-256-Digest: UbIDwK7ulZQwT33S1RpWuXnB0C6m6SwYmf62kN28z6Y=
+
+Name: org/antlr/stringtemplate/language/TemplateParserTokenTypes.txt
+SHA-256-Digest: ZG7vw68/+LSr6qV3kk5iAY65hbCfgsmXeA31DrYHFBQ=
+
+Name: org/antlr/tool/templates/depend.stg
+SHA-256-Digest: Aqva3mLrWY2diaRMV2lCW2/q5QlRDSV76PqfGjhTJCA=
+
+Name: org/antlr/tool/templates/dot/dot.stg
+SHA-256-Digest: LJ9+Mh4hmnODYQYX61fQ3vVnbJOsEn3lieDIDQZwVTk=
+
+Name: org/antlr/tool/templates/messages/formats/antlr.stg
+SHA-256-Digest: fstfKJ/Ck6jxEu0fcBwH3e+ZluidUVvPymgKBxV5uIk=
+
+Name: org/antlr/tool/templates/messages/formats/gnu.stg
+SHA-256-Digest: jVg3y5jHKYqfrjy0NvmFXkd/Z3HaBrZEZYDv0GvFi3c=
+
+Name: org/antlr/tool/templates/messages/formats/vs2005.stg
+SHA-256-Digest: NimcWThLCHRKqfI70VIA2phK1UJtrWMp7Kt25kWaVfQ=
+
+Name: org/antlr/tool/templates/messages/languages/en.stg
+SHA-256-Digest: LaUSZApqmnaeiNVmYnykhLHBGtWyve1f8A/BenBk0Ec=
+
+Name: parser.dat
+SHA-256-Digest: fnImizh9/+ZEPrxIam3kYIwH2V+149KKDvykzn3AG/Q=
+
+Name: peephole.dat
+SHA-256-Digest: V3OcrajYwRLAO/vd5kAoxUTCISn3GEiuGuN/P9zNjww=
+
+Name: res/anim/anim_diagnostic_tooltip_window_enter.xml
+SHA-256-Digest: TWngJ835UdhQv4mN+nBqs2Tv2s8OvQAGEDVOHs5QLbI=
+
+Name: res/anim/anim_diagnostic_tooltip_window_exit.xml
+SHA-256-Digest: c96GDzJAQxREe4CFV5/3s49iIg4ceyEFMr2ejUGV3AU=
+
+Name: res/anim/anim_text_action_popup_enter.xml
+SHA-256-Digest: Y7GvMWIf3I3BTLEMy13hDIpVSqi3kCudRtxxYfYCR8A=
+
+Name: res/anim/anim_text_action_popup_exit.xml
+SHA-256-Digest: RlWqWCBs0Eirx54prAD2xKU6/BEZg+ZnG34KTBv+aO0=
+
+Name: res/drawable/baseline_more_vert_24.xml
+SHA-256-Digest: jeKjoNVa2rGi5VfSmMIjvhKRoVlPuNjiUdEIJxo8mac=
+
+Name: res/drawable/editor_text_select_start.xml
+SHA-256-Digest: mjhZU04HNomuAsYc4uVVNFHpUn8lDnqVzkehqiGIc08=
+
+Name: res/drawable/ic_more_vert_black_20dp.xml
+SHA-256-Digest: BHRDIH70esPORd7MF/tb5XWgNC9795jRoYiQbW6IzwI=
+
+Name: res/drawable/ic_sora_handle_drop.xml
+SHA-256-Digest: 4ub8K7IoSuFk0lsgOvukEmgr3B0QQgiAzZWyZIbRQbU=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: wQEz50sKdOa3S4OoTDET+cazzhNaM9lEWzlZ7DAmV6c=
+
+Name: res/drawable/magnifier_background.xml
+SHA-256-Digest: 6/AEFdaPTxhcvm5OKpAGRovOlE1US6uUY5qc2a18sgM=
+
+Name: res/drawable/round_content_copy_20.xml
+SHA-256-Digest: QoRUBiVFdxxAQIFcgQzCbpVtBB4q3pfCpumS8VhvaSQ=
+
+Name: res/drawable/round_content_cut_20.xml
+SHA-256-Digest: ORcBnBa435CYS4jaCas4xVC8n1bvsgObaJIYYkvdsPQ=
+
+Name: res/drawable/round_content_paste_20.xml
+SHA-256-Digest: 1EByzuXSdnwr0i2lrsh4qG1zFOSlXXvVr6Jw7+TuHRA=
+
+Name: res/drawable/round_save_20.xml
+SHA-256-Digest: 1ZL0vAuimrEq0nmHiITNRzUiyijupTo6Ry4e2EkYU+8=
+
+Name: res/drawable/round_select_all_20.xml
+SHA-256-Digest: awjRZ+O9KoS8JfDLzGgoXMBLWu7ybApW+UNYGQES0To=
+
+Name: res/layout/default_completion_result_item.xml
+SHA-256-Digest: HaNP/9aCfb3OMP9NYWJHujxB3VNQJJAYFB7hropGlGw=
+
+Name: res/layout/diagnostic_tooltip_window.xml
+SHA-256-Digest: dL2BL+ECkzUj0CwrxXr+Oj2rITUQhmzvZ/rWOJjNiaU=
+
+Name: res/layout/magnifier_popup.xml
+SHA-256-Digest: B5vq9e47bQvOhO/31SWGLXpvGcIUtqcPEu5GoRKgk4k=
+
+Name: res/layout/text_compose_panel.xml
+SHA-256-Digest: ImdZuGRg+3/CNXZqR1pixJDeSJKgSWBkYU5VvF+aZJw=
+
+Name: resources.arsc
+SHA-256-Digest: AFu5247yWc1eYkwh4h/U5Q0DIOo7MGdWigfTlzvhC/I=
+
+Name: smali.properties
+SHA-256-Digest: ROBufuPd9shzHnzHjrtfqBvHnXxgBLA6MFg7EdCBlMo=
+
+Name: tables/CR_ASCII.bin
+SHA-256-Digest: a87JdFEmiWU1QMvpVWtij4hUJHJ/J1CM+ch5dXDCHPU=
+
+Name: tables/CR_Adlam.bin
+SHA-256-Digest: eV9RU7I6xD/vInvNfNqGeJmbLZjFBO44d9zXOc4/J04=
+
+Name: tables/CR_Age_10_0.bin
+SHA-256-Digest: fR+76dS+9AHS7pBpkRnoyZ9Cf57Yg/YEhesPkXOBfWs=
+
+Name: tables/CR_Age_11_0.bin
+SHA-256-Digest: wWaviF1hMe73NVq4VVt8UdnUm9rlwRC79aBoarI8+ek=
+
+Name: tables/CR_Age_12_0.bin
+SHA-256-Digest: SxpGIu/6jAC1HrdsIduGYoBdvgu07hfZTGdS7Xl7f5Y=
+
+Name: tables/CR_Age_12_1.bin
+SHA-256-Digest: SgmW+5UYo61HI5+3HckynW7k9FYYEqxCX7E715KyWoI=
+
+Name: tables/CR_Age_13_0.bin
+SHA-256-Digest: gx9/OZwEzqLxIZ6db07/7saRsGmDAd6TMaS9FAs7LoY=
+
+Name: tables/CR_Age_14_0.bin
+SHA-256-Digest: rkfNI5H+DU0ZKYIJC1sz/trMI65a4JHdfTZuZYZr4Ag=
+
+Name: tables/CR_Age_15_0.bin
+SHA-256-Digest: onS0u491UiueIHJiQUiwGtaBegm1aFkHZeWqYiG36i8=
+
+Name: tables/CR_Age_1_1.bin
+SHA-256-Digest: nmkBs04boCIz8i5XIBX95Y2c1HXafpmFp3qmTXZtSlQ=
+
+Name: tables/CR_Age_2_0.bin
+SHA-256-Digest: w/aEPY07FTN/vUhqhn+bdZhyjYF3zg0G9DhNS1AOv3A=
+
+Name: tables/CR_Age_2_1.bin
+SHA-256-Digest: IbUedqnw0K/SPOlNHBIhPKYZvsRB7F5tmXGoueWNl/g=
+
+Name: tables/CR_Age_3_0.bin
+SHA-256-Digest: Ch5Uf+SZ8dUf1vRgEJ8MhES2Aalu7HGgo4ejxb30ygE=
+
+Name: tables/CR_Age_3_1.bin
+SHA-256-Digest: tf0Hhdl9xqW7DAdv6V6pl3ufrItLzsNeZvrvS8KbKio=
+
+Name: tables/CR_Age_3_2.bin
+SHA-256-Digest: Y/c2L2tIc471spvrQw/DIXJnvRm/6/mOs9hK9BsFVf4=
+
+Name: tables/CR_Age_4_0.bin
+SHA-256-Digest: rPevc/NQPJ8s5ak0d1uLTPn87p3jEIA1s3A5Y8ZVfps=
+
+Name: tables/CR_Age_4_1.bin
+SHA-256-Digest: ZHrlQCl8AtCj/jIyk/tLlPMZRBk5t66qg3xdIGRiZuI=
+
+Name: tables/CR_Age_5_0.bin
+SHA-256-Digest: aDEVOHw4Vj5iwvdkf+a9nKc4gpHbgBgKq4PhWorylf4=
+
+Name: tables/CR_Age_5_1.bin
+SHA-256-Digest: xD7dkFeZjwhF4rVumUui44drJ9fxfygH/sRjod6PWk0=
+
+Name: tables/CR_Age_5_2.bin
+SHA-256-Digest: 6zBGC3JVOurFNEb6+Ljlk8BkBoGpflbfSn1fVJp6kac=
+
+Name: tables/CR_Age_6_0.bin
+SHA-256-Digest: 5O8vMTbwDXQZWVY9W62DbQU0zs79cJNNZ07qt0/vvX8=
+
+Name: tables/CR_Age_6_1.bin
+SHA-256-Digest: 1VYrtU4MaToHuS3xdjkZueXrVxeM1R+gJlXc7o06KlU=
+
+Name: tables/CR_Age_6_2.bin
+SHA-256-Digest: UndAYr653WTWYMosdVWALcqhXBDwbz5rKwtbhzk4lMc=
+
+Name: tables/CR_Age_6_3.bin
+SHA-256-Digest: 3gvOqnp7R/qSrpB+1TB+6FHpjUBhD863fgkML0HEttc=
+
+Name: tables/CR_Age_7_0.bin
+SHA-256-Digest: ZJZAUZ0DFrsmoYEqhlVBuE6yRxKIROXWVEXUCtVGL6w=
+
+Name: tables/CR_Age_8_0.bin
+SHA-256-Digest: mBKK8NAirJALLW/DI1GSy69znatATvP2xqnCfGAJdGs=
+
+Name: tables/CR_Age_9_0.bin
+SHA-256-Digest: PUJOiJC5zidDOk7uRQ/aRKTVjA2uvWz1DTXkJZP7HJs=
+
+Name: tables/CR_Ahom.bin
+SHA-256-Digest: PnsE5rOrqodbYfDrLR6c1lA9ZkS8+p8YuLVpYeSC5hI=
+
+Name: tables/CR_Alnum.bin
+SHA-256-Digest: FPvMNXhg5iYFaqolWwYH6SzN0sMmB8vfDU+/fj5cJ+s=
+
+Name: tables/CR_Alpha.bin
+SHA-256-Digest: mqQmYh9kuipppdqXx6xhqf202VogwCTckPrnxTk9fPI=
+
+Name: tables/CR_Anatolian_Hieroglyphs.bin
+SHA-256-Digest: mU5gy+L0brNVk42epLPoFN+v6A2LCLdcyGqPApfiZDA=
+
+Name: tables/CR_Any.bin
+SHA-256-Digest: aV8NtfKA6UF6Wjm+Z3g6AAw/EBydombiuxxAJnbZXoU=
+
+Name: tables/CR_Arabic.bin
+SHA-256-Digest: vyJ0mfJchxJWtendrqD5YUQ7nrf7hqiOIdZKU6p32vs=
+
+Name: tables/CR_Armenian.bin
+SHA-256-Digest: 3I+HONviXs9wQDkbpMl7ODsLn6fnYxd5DtTuMwO6B5o=
+
+Name: tables/CR_Assigned.bin
+SHA-256-Digest: 1hWJIqIllR1rvccvxlfY388jJJGj6p8Ebib3hD6KOAk=
+
+Name: tables/CR_Avestan.bin
+SHA-256-Digest: v+k5kPY1W6mMTCmFS+JmkNKG+dAUWKab/i73Lxj8Ab0=
+
+Name: tables/CR_Balinese.bin
+SHA-256-Digest: LeY/RROHWDtsT5ZTV+9JK3WfnxyWrvprUlW8+1g6wGw=
+
+Name: tables/CR_Bamum.bin
+SHA-256-Digest: T/1UW6gHG5i4Xy1Jlfm4NJwXlN2d5urEw/cDlZgpCM8=
+
+Name: tables/CR_Bassa_Vah.bin
+SHA-256-Digest: v3ZqDIUTiSSq8Qm10nxCrceGqZX+dWo6461GsaYrU40=
+
+Name: tables/CR_Batak.bin
+SHA-256-Digest: sMow5ejMFarpAk04oz0h0C1Rp2MJSJfQhgAxD9jb1tM=
+
+Name: tables/CR_Bengali.bin
+SHA-256-Digest: FdHsfFJWz8OnjEznu/+eiZE7NMyaamfjko9Gn8DRz1o=
+
+Name: tables/CR_Bhaiksuki.bin
+SHA-256-Digest: zn7IY1aXCPqIm9n+QPO6irh+ixXnhJ59FW+9KoVX+ko=
+
+Name: tables/CR_Bidi_Control.bin
+SHA-256-Digest: a08rSHquHItL9Raq4JJzl0V8ZEeb9QR1KR78R9CZ5H4=
+
+Name: tables/CR_Blank.bin
+SHA-256-Digest: Xh2I5Q67uSc3xSqRYGgKh6lbZVBKhhjOlCsyJYZ3c68=
+
+Name: tables/CR_Bopomofo.bin
+SHA-256-Digest: yus99HpFVRyMWhRUXklMFxK+SGg99PynVNNUxa+ahLA=
+
+Name: tables/CR_Brahmi.bin
+SHA-256-Digest: WNCuk9kBr83XwcxOnIvctulxvpKRXkxLPPlmcd6/WIM=
+
+Name: tables/CR_Braille.bin
+SHA-256-Digest: 1C2bPWzKADMzZheaV6STVCBD0heepemAAKiY8kJLnCo=
+
+Name: tables/CR_Buginese.bin
+SHA-256-Digest: hNSJkY+ruHuYJlQFSXJpXMdUgGmuk7TjkM/uAmPD2Nk=
+
+Name: tables/CR_Buhid.bin
+SHA-256-Digest: Nd5p4wH95kMjYPsLhSRIu7n+yRbqRLPz9MlN0QVdGC8=
+
+Name: tables/CR_C.bin
+SHA-256-Digest: 8l5rv5e6D8Mbrk20HavRvYYHvq9QDigQMtaOOJ5jchU=
+
+Name: tables/CR_Canadian_Aboriginal.bin
+SHA-256-Digest: eaJIdTN/XAl1iyecCW/n/XyGJo12HB89f1l533pnqIM=
+
+Name: tables/CR_Carian.bin
+SHA-256-Digest: +0/+zf1HD3WN+oZ+/iRCLUUumOZ8Bi+MKnDk1t2eXnM=
+
+Name: tables/CR_Case_Ignorable.bin
+SHA-256-Digest: wxU6XB3KTvP1wbFo2AVM11IPtnG/8dHsbMUji2vs1gw=
+
+Name: tables/CR_Cased.bin
+SHA-256-Digest: QvRWJs2jyXeDsju8yGtkm9Nolo0yP+w44vALwr4ZpPo=
+
+Name: tables/CR_Caucasian_Albanian.bin
+SHA-256-Digest: WRsz0kPEtwcNkvtfhXh5IEpLOrCtNqCZQB6JlpBKCn8=
+
+Name: tables/CR_Cf.bin
+SHA-256-Digest: 6ZTnXoTTGFxM411ZMCk/CDr4/nAL/mU5wOUvKQILoA0=
+
+Name: tables/CR_Chakma.bin
+SHA-256-Digest: q57XK5mu0iFnf38PuyPkAbBGX0bMUpnXKu55yzzeqEY=
+
+Name: tables/CR_Cham.bin
+SHA-256-Digest: WB4YN/Me+weYb/4OcpDMgNwZi+/FXlATi06efcb1GBg=
+
+Name: tables/CR_Changes_When_Casefolded.bin
+SHA-256-Digest: vCM6A367YKGDVD0QAp1edp3wQbI89ZOWzdB6P0rNwXA=
+
+Name: tables/CR_Changes_When_Casemapped.bin
+SHA-256-Digest: PwflBg+/lvIO3VA86FG26EQfumQJgnGA5YKbcX5ZvXs=
+
+Name: tables/CR_Changes_When_Lowercased.bin
+SHA-256-Digest: 1+HUNL5HkEbb9ymQh4tNP7io4YxVW2TzCp5yDTsHXv8=
+
+Name: tables/CR_Changes_When_Titlecased.bin
+SHA-256-Digest: n51idjH7EWqniv7zzDjnS9vL7n145QGc06ZoKoxNEPM=
+
+Name: tables/CR_Changes_When_Uppercased.bin
+SHA-256-Digest: sGzmTt3litHBuL1MFuhdmYEeJXs8vP31aBJnGJjnLxE=
+
+Name: tables/CR_Cherokee.bin
+SHA-256-Digest: QQUk2lX+TMdiCHiTLtyGgaaDYrXGeRcFSGHu5urvleI=
+
+Name: tables/CR_Chorasmian.bin
+SHA-256-Digest: e8wOJLP4iwQB7x9wKAiW8b8I51VvwKgN11QOxqEqCTQ=
+
+Name: tables/CR_Cn.bin
+SHA-256-Digest: zAOIGi3aKIUAlJKSJNzz285XXL/Hmuj8Ez60x90ZkYU=
+
+Name: tables/CR_Cntrl.bin
+SHA-256-Digest: 30iT3qVajVA2enSxuXiBctadGNhHE6s9UByHuSAP/gQ=
+
+Name: tables/CR_Co.bin
+SHA-256-Digest: b2tBMNKABIzYiMuP2CYulT82Do5+q9TTl2Si9xu0CKs=
+
+Name: tables/CR_Common.bin
+SHA-256-Digest: Z3bRbjBpKhpfL8DJKCGXnv4n1klHo31XliELwqR2ZXA=
+
+Name: tables/CR_Coptic.bin
+SHA-256-Digest: 78m7L4S5iroD8IuLFvTrs9tW40g4TsCy7Kh2ekcqhY4=
+
+Name: tables/CR_Cs.bin
+SHA-256-Digest: 0B01OYKFMOLexGBe6wa8FNsZ4d/GuUT4aFGvYwPHUOA=
+
+Name: tables/CR_Cuneiform.bin
+SHA-256-Digest: i2GUh1aMsUphNYeANRm6Nv3796w1j4iAWQNdRXgZ+z0=
+
+Name: tables/CR_Cypriot.bin
+SHA-256-Digest: kfeDoJGaFqXKbPfARe3105/yIvBYCqZLMvxmWswKe58=
+
+Name: tables/CR_Cypro_Minoan.bin
+SHA-256-Digest: jVoB7eHmWbqe8U51XNhHedkYpXXdP2w9xxpHjOW2rNQ=
+
+Name: tables/CR_Cyrillic.bin
+SHA-256-Digest: OoPb5nhBFq8wwcsQbwNrmkoD1JR6kXn+MA6+ZsZmgT4=
+
+Name: tables/CR_Dash.bin
+SHA-256-Digest: +5AZncelxH/WbAYYER6IcC96BhSSZLWRFx9B5UQBVxk=
+
+Name: tables/CR_Default_Ignorable_Code_Point.bin
+SHA-256-Digest: OiZfqeSZB2Hn/LOa3xqr9Vy3G9ssgwo4t0Gg1yBhdy8=
+
+Name: tables/CR_Deprecated.bin
+SHA-256-Digest: eEN10yGO/FqhgMW82Id8/CDgw3Ak7YyFWeIECuzJrUs=
+
+Name: tables/CR_Deseret.bin
+SHA-256-Digest: dMXYgyONStahBaEEJuHKCkyBi1qsKFEk48g91V/KajM=
+
+Name: tables/CR_Devanagari.bin
+SHA-256-Digest: ndAngZfIc6yGgoDjlbJYVZ9LpTGEDb4pDf0jDHHHI8A=
+
+Name: tables/CR_Diacritic.bin
+SHA-256-Digest: VXt4Wwe+qnjaQhqA1C7aIx2N3y/rWq0nXm9UjLZdZnE=
+
+Name: tables/CR_Digit.bin
+SHA-256-Digest: FMFg57YW6JYwaIih971CebyUNQRa3cgloFUskVnhx6A=
+
+Name: tables/CR_Dives_Akuru.bin
+SHA-256-Digest: W3iTCvvUazxyZmGTdkQmhYg4Fyi3wiXNwrdQVLIocUA=
+
+Name: tables/CR_Dogra.bin
+SHA-256-Digest: YB8rp1/gV7LT96gKz1EjsUWPFA2jH3uRuGoqVyj3xVs=
+
+Name: tables/CR_Duployan.bin
+SHA-256-Digest: wHx1M5nKw/xJd7583SROMVXJp7UNCHcGUQi9meni/Zc=
+
+Name: tables/CR_Egyptian_Hieroglyphs.bin
+SHA-256-Digest: 2YRWdnT45epElL2eUjiIxw+6UTdfCPHZZPc5xGqXTC0=
+
+Name: tables/CR_Elbasan.bin
+SHA-256-Digest: bAKi4dNUFIX0JvFmTDfnmoSBz7f3TpHpX4U4tcVlQ34=
+
+Name: tables/CR_Elymaic.bin
+SHA-256-Digest: IRixrvVE01hVGrPX/Kjprfe4XSfntUFq0UO5fl3ZiYk=
+
+Name: tables/CR_Emoji.bin
+SHA-256-Digest: xvSvmCZAG8ydhF+0m+rEsVPuBrKWa/7vswbZIK9HFxg=
+
+Name: tables/CR_Emoji_Component.bin
+SHA-256-Digest: TmUtMTl2Hp3O7GKrDP8QdaUivuNFmzS4WbA04ZFBjJs=
+
+Name: tables/CR_Emoji_Modifier.bin
+SHA-256-Digest: 8JxS46zEFXPIqot8t67IGZLbiiu2NwCQb5ZMltutndc=
+
+Name: tables/CR_Emoji_Modifier_Base.bin
+SHA-256-Digest: OOQ2x3VqG5rDvE+XCzjZ0GtLrXsyhCqormScvjyprsY=
+
+Name: tables/CR_Emoji_Presentation.bin
+SHA-256-Digest: mGAHv3P0IAHvTPm1p6jTMjUEaC3b5AGRcGijAteZkzc=
+
+Name: tables/CR_Ethiopic.bin
+SHA-256-Digest: /W/q7j0wQ8wrC730LKopxuDYBj3VkZZPYJCmX/RzMbE=
+
+Name: tables/CR_Extended_Pictographic.bin
+SHA-256-Digest: 5u26KCletbxBBVBIgtjG3bi8z4iqsXY1LwO08mSEq0k=
+
+Name: tables/CR_Extender.bin
+SHA-256-Digest: 0GV7rTDbtiGSeFo5lnAtC60+F/zmvXJ2z3kjKw6rhI4=
+
+Name: tables/CR_Georgian.bin
+SHA-256-Digest: UbURNlsIzrBUvW60QhtVQzR3pnuGQO5dVxd3MMaCog8=
+
+Name: tables/CR_Glagolitic.bin
+SHA-256-Digest: jJ8W3F421+rdt9riwe+yXd4gTjffOM8YZdMpL/sVUm8=
+
+Name: tables/CR_Gothic.bin
+SHA-256-Digest: 7r1efqUrEN4CTjuc0Xu8vqRnQytYKDdlI3I48DVQ4UU=
+
+Name: tables/CR_Grantha.bin
+SHA-256-Digest: hg0bxwzHJh8x7iK40YFgRHBu/+cexH/ZOSBQ+vsLFfw=
+
+Name: tables/CR_Graph.bin
+SHA-256-Digest: uJsfMh0lSskP93qlPZAn2ALyE1tQPJs1IroSRRy+1d0=
+
+Name: tables/CR_Grapheme_Base.bin
+SHA-256-Digest: 45t3/J/cHr4P29rKYKXfMltz+LLNJVffOZxnXW6rahw=
+
+Name: tables/CR_Grapheme_Cluster_Break_CR.bin
+SHA-256-Digest: cvOdx7KvYwWc4LH9JZkdyfuTnfgr8Z8nZ8qcWFjJaKI=
+
+Name: tables/CR_Grapheme_Cluster_Break_Control.bin
+SHA-256-Digest: GAhvMQaFkW+BATiwEcu3XWC9EljUe92ZL51VzLkGOis=
+
+Name: tables/CR_Grapheme_Cluster_Break_Extend.bin
+SHA-256-Digest: 179KZuXaxuuniTWtauBkyPSsrM6R02hwnYQ1A0WujcQ=
+
+Name: tables/CR_Grapheme_Cluster_Break_L.bin
+SHA-256-Digest: 1ZDq9P45uoNlZXjPcVA9WxmDOCQK6NHGrGydS9r4F2Q=
+
+Name: tables/CR_Grapheme_Cluster_Break_LV.bin
+SHA-256-Digest: 9aIfaMApS5jYd+kUSvdx9cFc2prgr6OiUkv0KyS0SJk=
+
+Name: tables/CR_Grapheme_Cluster_Break_LVT.bin
+SHA-256-Digest: GMh4XPI6smArd69bTKVM/GKESmWexCDWylVloOVCVuM=
+
+Name: tables/CR_Grapheme_Cluster_Break_Prepend.bin
+SHA-256-Digest: kRaH85jObHYOtaPPCNkYLGotJOrPpKxXMhQhMI81A1M=
+
+Name: tables/CR_Grapheme_Cluster_Break_SpacingMark.bin
+SHA-256-Digest: 9Q/byJ3NXn9UHQ6yvtoHWhx07jqkhZpUgeg8k6LGQIM=
+
+Name: tables/CR_Grapheme_Cluster_Break_T.bin
+SHA-256-Digest: Gy6/CZGyGgDSFkEL3FdSS4T3DlULF/PMIT1R8+GIkqQ=
+
+Name: tables/CR_Grapheme_Cluster_Break_V.bin
+SHA-256-Digest: 2BRimGw0zml/B8lU9v6kBIEHdL27v5fJ0akfgqXQOxc=
+
+Name: tables/CR_Grapheme_Cluster_Break_ZWJ.bin
+SHA-256-Digest: C4MmH7AvFFzfkgmNj9swkB3ytc2Vo+xbEyZEo9sL3eg=
+
+Name: tables/CR_Grapheme_Extend.bin
+SHA-256-Digest: 0dyHRa2dREIZBlbxKJ6yaWSVzGVqfpcf7Ib6b6oqpKI=
+
+Name: tables/CR_Grapheme_Link.bin
+SHA-256-Digest: cLJ/tnXdAiCeGxWvV178NgrIM5qnH3C3KG0rARSeL/w=
+
+Name: tables/CR_Greek.bin
+SHA-256-Digest: QDND9d0Rq4Y7ISoNQQzN75FPb2m3Pxdvw3GPjHF4kvs=
+
+Name: tables/CR_Gujarati.bin
+SHA-256-Digest: fBQEHZjfHIa8DxGR2Q0DG2jDyTNLUzVehR4Fd0E6K34=
+
+Name: tables/CR_Gunjala_Gondi.bin
+SHA-256-Digest: 5OqvpvgZifQkKXi+wo4VWHCB0gdEi4r89LZltyNB6GE=
+
+Name: tables/CR_Gurmukhi.bin
+SHA-256-Digest: V3/ABW94p7yqtI6xTf/mjopJNgzR5e6A4/vW89mUIww=
+
+Name: tables/CR_Han.bin
+SHA-256-Digest: hT6Ak7lKuk21fAJYhNb/9LVEQZBzK7iFXaIGg6Pd29M=
+
+Name: tables/CR_Hangul.bin
+SHA-256-Digest: MZSuwywjTt/ztsldfqfuCIeGZe7ukx+vI8vJcI7yDv4=
+
+Name: tables/CR_Hanifi_Rohingya.bin
+SHA-256-Digest: 9NpkXQBvWfgGKuPN6v+yTT00O5bnl2kEkHzM6K01jgA=
+
+Name: tables/CR_Hanunoo.bin
+SHA-256-Digest: 2hm2Aa1tDstZC3rSrfDjeWZdVq0qJYPhxYytgEsVHbI=
+
+Name: tables/CR_Hatran.bin
+SHA-256-Digest: +9GrSgOUag/tYK9nwFTT+s01cm8II2Wq1NDkImkPaqk=
+
+Name: tables/CR_Hebrew.bin
+SHA-256-Digest: TlipC2ohhG+AuZDUH1+R98WhCbqJMiwsr+gGT2NX/+s=
+
+Name: tables/CR_Hex_Digit.bin
+SHA-256-Digest: /1BOAn2TdJ0V55Dz2vjUYkLW4ylm1E0OiKaXoiIBZmU=
+
+Name: tables/CR_Hiragana.bin
+SHA-256-Digest: e+E7T237Sc5lpTS0+7En6lSqG/cCmuh9nbdcscujGNA=
+
+Name: tables/CR_Hyphen.bin
+SHA-256-Digest: T4wwCE8WauWbP5wzGLv0EDbhtCBLFO2i1qdVEAKS46c=
+
+Name: tables/CR_IDS_Binary_Operator.bin
+SHA-256-Digest: N2b7aSI55ljefV3MTrMfF1qJdXBuAyYcL0uO75WFvbs=
+
+Name: tables/CR_IDS_Trinary_Operator.bin
+SHA-256-Digest: yJ3st0JHjPno4Fptc1cL05XfokEbdr6scnpzfH/lxv4=
+
+Name: tables/CR_ID_Continue.bin
+SHA-256-Digest: zT5K+zWFpot+cfJOiWZUlRW7mk8F6UoLKOxIQ3u9zdo=
+
+Name: tables/CR_ID_Start.bin
+SHA-256-Digest: X12UnVmnF0Pn5/N5KU4HDpOMQHhFpsKrJGxILAY3CEs=
+
+Name: tables/CR_Ideographic.bin
+SHA-256-Digest: Zv5jIh0kaC7luzmuN6OtmMK2ghYk01rlGQJA+vXKjHc=
+
+Name: tables/CR_Imperial_Aramaic.bin
+SHA-256-Digest: Dws1riaqedb6kQ+UHz7h9rPgqy54pe/rFANqgnz7+R4=
+
+Name: tables/CR_In_Adlam.bin
+SHA-256-Digest: Vtfhrdoj4hQHarCCuuwZ8IlQqx5IuDRplrcorZBZ4Ic=
+
+Name: tables/CR_In_Aegean_Numbers.bin
+SHA-256-Digest: s/BVNinbrNoggQ32h/NRnD5ylAbS1ZPwKVHfwr0t7G0=
+
+Name: tables/CR_In_Ahom.bin
+SHA-256-Digest: oWzDn+fVxZ7v3X+RXBfCDZReGXs2JyR9xUR8lKg/jAY=
+
+Name: tables/CR_In_Alchemical_Symbols.bin
+SHA-256-Digest: m99S3h/ICAHCaEoWwC12Vezu3ydatW0QsRTrPCvcDxw=
+
+Name: tables/CR_In_Alphabetic_Presentation_Forms.bin
+SHA-256-Digest: JOvRaP8raNiaIPmoi5116FrvdLNb+uErG+41WRBLyHI=
+
+Name: tables/CR_In_Anatolian_Hieroglyphs.bin
+SHA-256-Digest: liZvGTxIqsXZV7vpZq8thDgOshctjd2xw35dnarWNFs=
+
+Name: tables/CR_In_Ancient_Greek_Musical_Notation.bin
+SHA-256-Digest: qXoChKGGnx6KXPX4vz7iwXEehs5eInPMvMdUh69AiEo=
+
+Name: tables/CR_In_Ancient_Greek_Numbers.bin
+SHA-256-Digest: 17I1rC0klt5K/z5q85GR5YxLj0et2LM/ZR25yX528OM=
+
+Name: tables/CR_In_Ancient_Symbols.bin
+SHA-256-Digest: ppVTDBDMdD8nIQAI5aLH6LHoBK7LH5BdFxsok6La8S8=
+
+Name: tables/CR_In_Arabic.bin
+SHA-256-Digest: MNXMZ/HHoGblGw6Yzin4q6OZzJBE+WH9CnLRhSyquvo=
+
+Name: tables/CR_In_Arabic_Extended_A.bin
+SHA-256-Digest: xPJ3ApXdCA6+XhMN9J1pz7Zev3fiHJ99uR2KS9qkla8=
+
+Name: tables/CR_In_Arabic_Extended_B.bin
+SHA-256-Digest: FzpyGgtF+wYOpNNJFF4qT+fjWMNm3nYyTaVwTnGqag0=
+
+Name: tables/CR_In_Arabic_Extended_C.bin
+SHA-256-Digest: OBmpf8mvQYsBEbr7n0MeTgdJTGXcCpJcKQvTGyAmWEw=
+
+Name: tables/CR_In_Arabic_Mathematical_Alphabetic_Symbols.bin
+SHA-256-Digest: 1mFkiO/zp6lX4zRvu4Kam7+6x7BASQgmVD5lap68WhY=
+
+Name: tables/CR_In_Arabic_Presentation_Forms_A.bin
+SHA-256-Digest: Qk9wcT9PKRyD/k/JaQp0n1dX9VAiS02PUJ2oVlt/8tU=
+
+Name: tables/CR_In_Arabic_Presentation_Forms_B.bin
+SHA-256-Digest: sk6EWCBBG3UhITClblz30mnB/vl9WFnreZDFRULt9cY=
+
+Name: tables/CR_In_Arabic_Supplement.bin
+SHA-256-Digest: U/+/a2i055TzxHiVXgGjS+9ynpsr+Ox+cgKFRCzRQ5w=
+
+Name: tables/CR_In_Armenian.bin
+SHA-256-Digest: vVPeFnXxDSXDYOREMAXlt6tH1Mhds7uKmlsc/vjvPhs=
+
+Name: tables/CR_In_Arrows.bin
+SHA-256-Digest: IkqQ+nQR+OT4Y4wC0amPxpG7kMFt74NWljUrv2wdEOc=
+
+Name: tables/CR_In_Avestan.bin
+SHA-256-Digest: KDtqUulfmhCRD4IN1Antgf8yFZOLIrHBfxTm5apFc1M=
+
+Name: tables/CR_In_Balinese.bin
+SHA-256-Digest: 7YcaSm4Tc4XFb84o7+yeapeADH9VmnMjKh4XpxCcXk8=
+
+Name: tables/CR_In_Bamum.bin
+SHA-256-Digest: yv6IACp/Lgds8fBIwxbnhNefySERBtMGzqtKmDgouVY=
+
+Name: tables/CR_In_Bamum_Supplement.bin
+SHA-256-Digest: yd5m9Ocg0t3ZIdgs7Lj/JaostwP117ZkkK+uuxWLXbY=
+
+Name: tables/CR_In_Bassa_Vah.bin
+SHA-256-Digest: ukNKAY2jPO8He+sFEPJesAoZivAyw5E3s+2aQdbfnsI=
+
+Name: tables/CR_In_Batak.bin
+SHA-256-Digest: amdzFixB6MzP8GBy+7yex+Om8OiuDwJSbkKJtaNO0co=
+
+Name: tables/CR_In_Bengali.bin
+SHA-256-Digest: NqFdanLTUaIBYs2PKn96MRjoHXuK2kEBAamzytwdtnw=
+
+Name: tables/CR_In_Bhaiksuki.bin
+SHA-256-Digest: iIHdMy5tbbNp0v10eVfUa9NeM6Ro4ziKU6iwM3UZQ0I=
+
+Name: tables/CR_In_Block_Elements.bin
+SHA-256-Digest: Sd9w5J5nnkz4m5Hay4PL9ClWjJMBF15ePdGlNYxcwho=
+
+Name: tables/CR_In_Bopomofo.bin
+SHA-256-Digest: kjKccN7+qYwYQS3mAOi5AaWrrce8pI5/zCNFZwJFDMM=
+
+Name: tables/CR_In_Bopomofo_Extended.bin
+SHA-256-Digest: DRVMMpSKcsBrAnbz6uT8wpeptzkTqpVzC+wpOW23ico=
+
+Name: tables/CR_In_Box_Drawing.bin
+SHA-256-Digest: A+ReLJL9YpM2yD1fB94aexIEiUqdzrVHGWf6EqVw0Eo=
+
+Name: tables/CR_In_Brahmi.bin
+SHA-256-Digest: /sscdCdzvS46gyPKivbUVoDBddbEWyTLtUYNyqBrOD4=
+
+Name: tables/CR_In_Buginese.bin
+SHA-256-Digest: Bf3T/U1ATQDkp+Q0ldZygVnt5fMVtiKlZ3kjQP8FOfU=
+
+Name: tables/CR_In_Buhid.bin
+SHA-256-Digest: xPJcTzsDqTu/tRHkmxSwg+nVHVz3OV5fAefU2DYmnjA=
+
+Name: tables/CR_In_Byzantine_Musical_Symbols.bin
+SHA-256-Digest: JhlmUxeRJNS/h1eCsRqnkNORop5qbCjqXG5buZORD6I=
+
+Name: tables/CR_In_CJK_Compatibility.bin
+SHA-256-Digest: VRd4mSaAuNoum+Mi967cLOYKTKYPcGL1E091/lvYs70=
+
+Name: tables/CR_In_CJK_Compatibility_Forms.bin
+SHA-256-Digest: 6EWBPBv6JfZ0JoWwHwe9L9+Tq7LbgOj99nT5nA4TkZo=
+
+Name: tables/CR_In_CJK_Compatibility_Ideographs.bin
+SHA-256-Digest: dfB72m5BTGZ7F1fK2DYjbDYhNq/Zn1IbiajN1u02V/A=
+
+Name: tables/CR_In_CJK_Compatibility_Ideographs_Supplement.bin
+SHA-256-Digest: RL0n5LS6yH+Hv8xBVJeN1OPKEFN1eusjla68TXlr7M4=
+
+Name: tables/CR_In_CJK_Radicals_Supplement.bin
+SHA-256-Digest: X+QuoITvEGcyCFmON64NE+63flIAn2LRUcB7d6EoxmM=
+
+Name: tables/CR_In_CJK_Strokes.bin
+SHA-256-Digest: tePXBCdcAKb9CCv3nbkWqnjClR+k+0bhlMEGlHkuaCY=
+
+Name: tables/CR_In_CJK_Symbols_and_Punctuation.bin
+SHA-256-Digest: XVVsp6QRuGHFEayBiEQIHnGtNFO6jZtL8v3rWDgAoX4=
+
+Name: tables/CR_In_CJK_Unified_Ideographs.bin
+SHA-256-Digest: 4yFEPPC2HjnKrC5nAkHc/texXCQoEiZYNUK0m+zz3Sc=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_A.bin
+SHA-256-Digest: Ss+6Dx67Xom3GDn/Hp0St1vxk3mLYkYPiQcJC6n70Y4=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_B.bin
+SHA-256-Digest: wIsJjWYlsc7Ka3sToooeGDdIXAYqKEvSTIyZ7GHRw9Y=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_C.bin
+SHA-256-Digest: 1SGsWob22P5GqkwaYJ3GmjPQuMZji7v4I/OS6z4sqdg=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_D.bin
+SHA-256-Digest: 38/GYq0axpvxUkYHt3W5wMPurio3W4f3yXDMMz4rwFU=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_E.bin
+SHA-256-Digest: IopnRbcutZmRP8fOkCGIAespZvmUGyS8b+xMx0wGghE=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_F.bin
+SHA-256-Digest: 58UaNSl06qRd0Lz9M6YUomSEKtdyqKG9YsN2iqcyHj0=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_G.bin
+SHA-256-Digest: Ot0BybeAWdi6aeQV6UXfAZ8pTsVvM8Y/cv4Z1M20/ao=
+
+Name: tables/CR_In_CJK_Unified_Ideographs_Extension_H.bin
+SHA-256-Digest: K0MoGJo8eyEGGWzmbvHsbXzFhXYR+ExfuiBi/6ioS1Y=
+
+Name: tables/CR_In_Carian.bin
+SHA-256-Digest: 8gMEJ621CIbJGQHMX6+OclH5giWl82SPNJKdcT+J0xs=
+
+Name: tables/CR_In_Caucasian_Albanian.bin
+SHA-256-Digest: fyKgpVTrChXtA/Nf4KDDgBBpkEHZkckyiE344IEWGpE=
+
+Name: tables/CR_In_Chakma.bin
+SHA-256-Digest: lIlxRxLXKaF5xG+VPKdF3H090p8QaeTP5H5Vnqw4XtQ=
+
+Name: tables/CR_In_Cham.bin
+SHA-256-Digest: ruBfqCnkLuU4KlhzdLDHTtCA90/sRJ5iFYZhDABrE9Q=
+
+Name: tables/CR_In_Cherokee.bin
+SHA-256-Digest: jfPNNFcToIuet0TX5/QUoeGeOOSyL1eolx1qM8uYUuo=
+
+Name: tables/CR_In_Cherokee_Supplement.bin
+SHA-256-Digest: NkRkfpECi/cvKpi/LaDSmC1YIkMktIHitKZINBUL7oE=
+
+Name: tables/CR_In_Chess_Symbols.bin
+SHA-256-Digest: O7JkMesw6ALgOEWazDDKQLLlKEml0+rUZ3msymLzmwQ=
+
+Name: tables/CR_In_Chorasmian.bin
+SHA-256-Digest: DMY/0X/tVcMdblmuUuTrAbTlObX+AScEv/z+4PprPFQ=
+
+Name: tables/CR_In_Combining_Diacritical_Marks.bin
+SHA-256-Digest: aL2LmrKIF5u76JhQfGJtbOSLVnLepqN6sj8qACefWvY=
+
+Name: tables/CR_In_Combining_Diacritical_Marks_Extended.bin
+SHA-256-Digest: Nof3mkKkzhLALK6xIHj1nkOJtOTdcCUf93A1L2W16BE=
+
+Name: tables/CR_In_Combining_Diacritical_Marks_Supplement.bin
+SHA-256-Digest: ngb5HJJqLxw7QaZUkNyTzb5Z+699Nr02aVrBLdDUFGM=
+
+Name: tables/CR_In_Combining_Diacritical_Marks_for_Symbols.bin
+SHA-256-Digest: Y8nlSQNZ2Lo3mmjgyWOxiBSJBpWFZukiyllfbXjeC9o=
+
+Name: tables/CR_In_Combining_Half_Marks.bin
+SHA-256-Digest: P2UP1slakvlCION/Nb27j4SJZfULshbBTZqCdIHXeN0=
+
+Name: tables/CR_In_Common_Indic_Number_Forms.bin
+SHA-256-Digest: KkqsyLZgNRVerAO6rOTQvwZyIf6CK2WO6UMXQ4tX5UY=
+
+Name: tables/CR_In_Control_Pictures.bin
+SHA-256-Digest: qTE/yAAohMwyQZzcf5S232EkBUzo2HduOyZmXTI8aEY=
+
+Name: tables/CR_In_Coptic.bin
+SHA-256-Digest: 44o1v8MSFskV9kgERizwb93g7/4T6HQ5sP8r29bOgS8=
+
+Name: tables/CR_In_Coptic_Epact_Numbers.bin
+SHA-256-Digest: G6IbFegvlklaZULmyDiIKCNz5UaN/the5pHr3Gf6m14=
+
+Name: tables/CR_In_Counting_Rod_Numerals.bin
+SHA-256-Digest: gLY3/WJ/dAUpmpH81jO/NCZTtI6FHhRqV6h3etscoOY=
+
+Name: tables/CR_In_Cuneiform.bin
+SHA-256-Digest: Y8Xvax55A4TV/nJsVeMmYWe289LBtgXFHx5XGJAH5Fw=
+
+Name: tables/CR_In_Cuneiform_Numbers_and_Punctuation.bin
+SHA-256-Digest: yfA5PyBjqCiA98J7mdd5RalD/GJAGr8P2n/Uwq6X94E=
+
+Name: tables/CR_In_Currency_Symbols.bin
+SHA-256-Digest: +5vFSET0TBNc/eGPxgWsYNAiE6MSNEnRpmLGBwzbelk=
+
+Name: tables/CR_In_Cypriot_Syllabary.bin
+SHA-256-Digest: SeeRK3zKYmxpOKPXARTljUDYZm7hblWizzczA+7rDy8=
+
+Name: tables/CR_In_Cypro_Minoan.bin
+SHA-256-Digest: KAuhZphzqk7uQ2+DT5BDyXnQ7MizCU+MNFNvf758rK0=
+
+Name: tables/CR_In_Cyrillic.bin
+SHA-256-Digest: tz+DHG+L+wG3S9V5undIy1yWGji7FuIKqyf/oEPXqZs=
+
+Name: tables/CR_In_Cyrillic_Extended_A.bin
+SHA-256-Digest: ax+RWKC7qEABG3MLWXUKpr2Kj1HNDfeKItxpsozKQOE=
+
+Name: tables/CR_In_Cyrillic_Extended_B.bin
+SHA-256-Digest: omRhik1Z+6CtExSpHr4kcK83+PDVLbahjc5uD7bX2ls=
+
+Name: tables/CR_In_Cyrillic_Extended_C.bin
+SHA-256-Digest: hYyw5HlmE9Inq7//WYlZOzu0xstb8Uhf7OUH8t8IVb4=
+
+Name: tables/CR_In_Cyrillic_Extended_D.bin
+SHA-256-Digest: qfdJtDiubHTZqax1UjV48up9B27ox3PFFN1zbuUIqgk=
+
+Name: tables/CR_In_Cyrillic_Supplement.bin
+SHA-256-Digest: YfhOB2/2HNYbObXuaD1rY0GH60jmgF1ZUHBRaxjC5aU=
+
+Name: tables/CR_In_Devanagari.bin
+SHA-256-Digest: SHHgvSUr4+9Wuq2k4C8NEJmcinwCbphEP1fELWISweU=
+
+Name: tables/CR_In_Devanagari_Extended.bin
+SHA-256-Digest: IYBfpEHbdYZ94fQHgJ2V+mbB5kBZal8r9kuMcDza6dY=
+
+Name: tables/CR_In_Devanagari_Extended_A.bin
+SHA-256-Digest: pNO2Ct/9iJ3i4vV+KolqLe+ff4cOU2qUOlONVNPlcls=
+
+Name: tables/CR_In_Dingbats.bin
+SHA-256-Digest: 2aePixmRMdRqcFei/jNs+3RVgpfFY0Rd0tbzFQa3dlI=
+
+Name: tables/CR_In_Dives_Akuru.bin
+SHA-256-Digest: bmXXAsD50YArPTL7OaQdyQruj64iCrYGZkYxevTUytA=
+
+Name: tables/CR_In_Dogra.bin
+SHA-256-Digest: WtA3l7E/tF4UV69n7i8PVU4TorTuQNnrnMcxKiihK8o=
+
+Name: tables/CR_In_Domino_Tiles.bin
+SHA-256-Digest: +HsPoRVqjFXz+5uoTySaiwF6AVo0gIeZAwXussvvnmk=
+
+Name: tables/CR_In_Duployan.bin
+SHA-256-Digest: rfmbF1XHqrzdHG9rJOY1utVLET93PiurP4U6b3NGQGM=
+
+Name: tables/CR_In_Early_Dynastic_Cuneiform.bin
+SHA-256-Digest: zmRb2oIcLj36tqrPLJKGZtNsTlHTbthKdxHwy4UncXE=
+
+Name: tables/CR_In_Egyptian_Hieroglyph_Format_Controls.bin
+SHA-256-Digest: foO+SGmixqgKWjgaK4Gqpy0hFqPlwj/m+NNZH7myhMc=
+
+Name: tables/CR_In_Egyptian_Hieroglyphs.bin
+SHA-256-Digest: ebgIZGe5/r5WUOVgxFeZxvzLzf97CcCQP+Vpfnqfxmk=
+
+Name: tables/CR_In_Elbasan.bin
+SHA-256-Digest: R6V06tYTXboFiaGBvYkWhpgQyuKlBvhsIlJMxhQhxjw=
+
+Name: tables/CR_In_Elymaic.bin
+SHA-256-Digest: dWDbhp/2OkY5djA3i9OPlneuqAqW6d3GG9X+DC6Vpig=
+
+Name: tables/CR_In_Emoticons.bin
+SHA-256-Digest: NrEcKUctYhu6kr+aeBelnWRa7iQBduWNxFxIRiIz6XE=
+
+Name: tables/CR_In_Enclosed_Alphanumeric_Supplement.bin
+SHA-256-Digest: irJ8nOBfzIIqlfVzgn7g6ckUnm41Feu87uwn6Sxafh0=
+
+Name: tables/CR_In_Enclosed_Alphanumerics.bin
+SHA-256-Digest: BaXxSXtaWuFVWMlFhcmMUORgKwVHx15dJNpR8uwCEJo=
+
+Name: tables/CR_In_Enclosed_CJK_Letters_and_Months.bin
+SHA-256-Digest: 3rOR7rk6PqncqzECkTzoNsHXgV0pMr1RwEQf+It5bOw=
+
+Name: tables/CR_In_Enclosed_Ideographic_Supplement.bin
+SHA-256-Digest: ZHGtcsEZVAx5PyPMA+sMlDomJFr2r9zLvjofEofEdqc=
+
+Name: tables/CR_In_Ethiopic.bin
+SHA-256-Digest: RSvPGIgXnjj6Qv8mym1/Zop1RA3fWBCtMP56o5g4lS4=
+
+Name: tables/CR_In_Ethiopic_Extended.bin
+SHA-256-Digest: rm2pcnUVhcG+j8ZbbLIkq3Iz9gOyKISxcHRsEEYtlpo=
+
+Name: tables/CR_In_Ethiopic_Extended_A.bin
+SHA-256-Digest: K5MKVlWqGBAW6TqmCYXlRnXumnMBnSv8V091Ql1r4B0=
+
+Name: tables/CR_In_Ethiopic_Extended_B.bin
+SHA-256-Digest: z3Fbj+iPDJhCpVVkH/y4NMd/GLPmgwpHVWaYyLUsX9Y=
+
+Name: tables/CR_In_Ethiopic_Supplement.bin
+SHA-256-Digest: i3yAFnQV6icCZWCDkslucVXLnFQXk+k+47qtFcr4Jlc=
+
+Name: tables/CR_In_General_Punctuation.bin
+SHA-256-Digest: 1dpVUkIfKxjIGxxkqNYO34iahDnzcUm5R7RnKkOppQ0=
+
+Name: tables/CR_In_Geometric_Shapes.bin
+SHA-256-Digest: 0/LOgv5RPxvewVXICK7E1uT2aSfOQVdBq/OspuzVjpQ=
+
+Name: tables/CR_In_Geometric_Shapes_Extended.bin
+SHA-256-Digest: aZ3fgZrG7h0FmmHIpGgNHq3RGe0uXC7HsCI7b8NUbiU=
+
+Name: tables/CR_In_Georgian.bin
+SHA-256-Digest: s4ue5/UQAjiojSaP0Kx/Mpn+qWDvg6mrgggusCImSSo=
+
+Name: tables/CR_In_Georgian_Extended.bin
+SHA-256-Digest: siaNK9o3D3RZO3neXrdIQ38ZBlOpv6I7lEovOR40joo=
+
+Name: tables/CR_In_Georgian_Supplement.bin
+SHA-256-Digest: GvHJQjdjKx6Y0l0a/ILO6jrlNsL21m9WoEkkRaOOLUQ=
+
+Name: tables/CR_In_Glagolitic.bin
+SHA-256-Digest: 9tfTVqMobJxvVT4RJHDitdfPubPV5HR8upsXY02G4Yc=
+
+Name: tables/CR_In_Glagolitic_Supplement.bin
+SHA-256-Digest: MJ/38AHxv6CYsNFgJZZdCrrqI0cXuGtYR0ObylgjpUE=
+
+Name: tables/CR_In_Gothic.bin
+SHA-256-Digest: GHprdsklEokxStBtu93Iy+NyN0orNmomPUXf7IS55p4=
+
+Name: tables/CR_In_Grantha.bin
+SHA-256-Digest: E/JfTv+ef/PiTljaOSmir4WlOeZ9C5t8D6NgNWEzO9M=
+
+Name: tables/CR_In_Greek_Extended.bin
+SHA-256-Digest: py5lRbVHfjXtHKQApK3D/9GvXcEwwYOuPPqPbv9LGKY=
+
+Name: tables/CR_In_Greek_and_Coptic.bin
+SHA-256-Digest: DS1FjsS2uJ2V+v9ZllCVQG0Kxm4NtviZdta4oM+1KbY=
+
+Name: tables/CR_In_Gujarati.bin
+SHA-256-Digest: nFaDLkQTr4wCrBhrP33S8gm+OULQNnZi405sSDtHdG8=
+
+Name: tables/CR_In_Gunjala_Gondi.bin
+SHA-256-Digest: tFj3HHRcZB2s6M7PXyDr9Ok/8VH+Gir8Vjeo8jV83Fg=
+
+Name: tables/CR_In_Gurmukhi.bin
+SHA-256-Digest: Kzc4OeYg8rnbOfLMESpESfIwC9lrvUJcyqCkludzWWU=
+
+Name: tables/CR_In_Halfwidth_and_Fullwidth_Forms.bin
+SHA-256-Digest: X1xK8XTzCKiXWjfBsKXWoc3hmu+6WrC2JY1CsBFseUg=
+
+Name: tables/CR_In_Hangul_Compatibility_Jamo.bin
+SHA-256-Digest: NpLaYzbh3zrME2Hwq82kiIBJIrpOSwAsXi3IiDgnn8Q=
+
+Name: tables/CR_In_Hangul_Jamo.bin
+SHA-256-Digest: Ibux1v7KBSZ2tM0ifZxgZGKmmk9P8o+dwlvYalqaveY=
+
+Name: tables/CR_In_Hangul_Jamo_Extended_A.bin
+SHA-256-Digest: Ed6RDrB+XcBo5l3AOSkPc+Ww8tDgFTso0hcEg5T2ubI=
+
+Name: tables/CR_In_Hangul_Jamo_Extended_B.bin
+SHA-256-Digest: 9JRK6FE5zvfX1SDaV/9EctHvzCRdRG+z94kqpGk7tzE=
+
+Name: tables/CR_In_Hangul_Syllables.bin
+SHA-256-Digest: 96JYXL5opRcxJcHI/uouDTyAQMkUJAdPYAHvdZyKXCg=
+
+Name: tables/CR_In_Hanifi_Rohingya.bin
+SHA-256-Digest: 286uWEgpXbRpN4+lo4/aQTItJ54kajZgRBI3GdtPzBQ=
+
+Name: tables/CR_In_Hanunoo.bin
+SHA-256-Digest: hfWvf7+00tHmzR1eBJIZAE13nhT+NlhGY9jlD0VFmB0=
+
+Name: tables/CR_In_Hatran.bin
+SHA-256-Digest: PsVprWDERqTRukoMdIP8GSYy6Twys6Lr2TZFv+BAi5c=
+
+Name: tables/CR_In_Hebrew.bin
+SHA-256-Digest: wcdZzHyNQhNkaEKmXGrxtUG/VCXk6QA7ZifzV6jH3us=
+
+Name: tables/CR_In_High_Private_Use_Surrogates.bin
+SHA-256-Digest: ns93PMLp122q4RQFa7u0ke0NEJvwqYhiS5GJox+yM/g=
+
+Name: tables/CR_In_High_Surrogates.bin
+SHA-256-Digest: WuUuEqXwF/zqOxkhemDcihSxOLSsKYxDU7+7Ys41tj4=
+
+Name: tables/CR_In_Hiragana.bin
+SHA-256-Digest: NpFWW1PD/I0G7pCmnj8JR0bf+fTsr/pMfiQjsfLlUPo=
+
+Name: tables/CR_In_IPA_Extensions.bin
+SHA-256-Digest: m47lFMZ+dy1DJGjAVY60rBbpc6g9MDC4cX3pT9pShxs=
+
+Name: tables/CR_In_Ideographic_Description_Characters.bin
+SHA-256-Digest: jft965sRzb7Z2qfQQp0VMq50ustbDOJhiG4Fsh5U9qc=
+
+Name: tables/CR_In_Ideographic_Symbols_and_Punctuation.bin
+SHA-256-Digest: 1MP3EssL1H5RLpGc/EBMc8hnDVVmmxjouDCxzjy9Wvo=
+
+Name: tables/CR_In_Imperial_Aramaic.bin
+SHA-256-Digest: 6AM3eL8DQaj0/SmldtwpUMO0qg/OnRSrN/l8WxoJChw=
+
+Name: tables/CR_In_Indic_Siyaq_Numbers.bin
+SHA-256-Digest: 8q2ag3DyhtrOZP+15C5XvHq+FlwLbFwywGPkGPzwUDk=
+
+Name: tables/CR_In_Inscriptional_Pahlavi.bin
+SHA-256-Digest: q4LZnFq6dHTCMhL+UWUmnVh3r3bxvznoUP4mbofbYms=
+
+Name: tables/CR_In_Inscriptional_Parthian.bin
+SHA-256-Digest: q16K1QrwxT8bn4Bywl0RjknFN2NAnPpDACEQwvix+yM=
+
+Name: tables/CR_In_Javanese.bin
+SHA-256-Digest: q8IJ3aM7a9Grn4PrmHoxvYFiu0F1pYvO62hlerwWc8M=
+
+Name: tables/CR_In_Kaithi.bin
+SHA-256-Digest: v17x+yA0ARtJfmGJxa1YW5dUaM3dl61PwOJnGbVpcCk=
+
+Name: tables/CR_In_Kaktovik_Numerals.bin
+SHA-256-Digest: 3g23iTglNGgrkY9ENgzXTVQWMMkxIrGgJ9TpN6jfUeI=
+
+Name: tables/CR_In_Kana_Extended_A.bin
+SHA-256-Digest: Uz625av92B7J69+iGHfR+YjGY26YGSx+rC9MScqr3kw=
+
+Name: tables/CR_In_Kana_Extended_B.bin
+SHA-256-Digest: z9Tn0YETnFJEaP6775X8wCFoXiQfh4bVuagAUpc9UqM=
+
+Name: tables/CR_In_Kana_Supplement.bin
+SHA-256-Digest: iShClJvckMS1dqhvIu0mwuB7T0hji2YkFXnnSw/Y4mg=
+
+Name: tables/CR_In_Kanbun.bin
+SHA-256-Digest: oO0yLqBn9de3JDK8AkITvkX5UGv1xtnx7Zyx/QqdD/U=
+
+Name: tables/CR_In_Kangxi_Radicals.bin
+SHA-256-Digest: nSWq5iey1EIwarXkxXZO9R8FXS+bI7ZXRiMWk88Xcgs=
+
+Name: tables/CR_In_Kannada.bin
+SHA-256-Digest: dC6wYeppmJ5ftap3n3mtwzEgXigOz3KkFXTijU9HPPU=
+
+Name: tables/CR_In_Katakana.bin
+SHA-256-Digest: tMgOxLka3447t5limzNduOrSxuGaZumi3FZR7Ws9kbo=
+
+Name: tables/CR_In_Katakana_Phonetic_Extensions.bin
+SHA-256-Digest: WT2lnqAd6Sp1jOjDtlauMJZwaYv+Te92arQLFproztA=
+
+Name: tables/CR_In_Kawi.bin
+SHA-256-Digest: HSJedCvTOoQ/O5y0ZXtDt1Air47t8sqCdw/No6tUEZQ=
+
+Name: tables/CR_In_Kayah_Li.bin
+SHA-256-Digest: nf+nSX4sSgIU6HSvDgFrnmYiX0LYWJ5hHkTlBKjBUxA=
+
+Name: tables/CR_In_Kharoshthi.bin
+SHA-256-Digest: dfghqBrXa7ZRtYwF1icqQ5zvqtwyvBMkLdlrA/qhRgU=
+
+Name: tables/CR_In_Khitan_Small_Script.bin
+SHA-256-Digest: SfmH+ya6LnoLH+xYvd6+vAAwRIJAFxtZOkR0FwOGZ6A=
+
+Name: tables/CR_In_Khmer.bin
+SHA-256-Digest: VVRd7Qns9KIi9vN9im+R/iINIhJzrrEhhKpS9szF3rg=
+
+Name: tables/CR_In_Khmer_Symbols.bin
+SHA-256-Digest: oaY9winWfjg1uM1TQX40AtieWbfEQa5LrqbB4gdrEWU=
+
+Name: tables/CR_In_Khojki.bin
+SHA-256-Digest: +VpO7mqC+YdcKO00zauo1ThuYUdlMHgz1gWYqclTsaY=
+
+Name: tables/CR_In_Khudawadi.bin
+SHA-256-Digest: AsQQ/lfzieAivvu4By1mOPZNG7WmVg8RaeajWzIr8K0=
+
+Name: tables/CR_In_Lao.bin
+SHA-256-Digest: Tqt9MZrRgf1rltJ5XOsrAW8UF8Q23TydkpciWMTtiDM=
+
+Name: tables/CR_In_Latin_1_Supplement.bin
+SHA-256-Digest: 4slYeMoupGWc3xkMzIv9OGtVc4e3cUEWm1bv1ZIjkpo=
+
+Name: tables/CR_In_Latin_Extended_A.bin
+SHA-256-Digest: WXDoViv2XN1pMhdyCKNK4+kNopntpfYbuekTyDPJqjU=
+
+Name: tables/CR_In_Latin_Extended_Additional.bin
+SHA-256-Digest: 6eo1rN82KjcquGL7KmVtUOuZ4G1mgYf2jzSap952Kgw=
+
+Name: tables/CR_In_Latin_Extended_B.bin
+SHA-256-Digest: TzPcKWfE4LXi0t4ry1wq3nYIh7qEpKxN0cr9NktwVfI=
+
+Name: tables/CR_In_Latin_Extended_C.bin
+SHA-256-Digest: 5GoEw5BwALV5etq+cF+8ucNFkz3gINzei740PUcSX7k=
+
+Name: tables/CR_In_Latin_Extended_D.bin
+SHA-256-Digest: wDcXkoC/hN+D3WHVj/Yxww923iX9t3Dlmc3MY407Mbs=
+
+Name: tables/CR_In_Latin_Extended_E.bin
+SHA-256-Digest: SadU+L9Tjx2nCA4vlsByEKKP0OpR7x+mb/dzY68dJws=
+
+Name: tables/CR_In_Latin_Extended_F.bin
+SHA-256-Digest: Hsk6Ab/MxprAycrTlANN1i2sNvmxLZcP2qh93O454Io=
+
+Name: tables/CR_In_Latin_Extended_G.bin
+SHA-256-Digest: /Hncde6LccddnQPeSpsA77uoiXG/KQANQpgln/1898o=
+
+Name: tables/CR_In_Lepcha.bin
+SHA-256-Digest: DBB+RppGTCAgHezCK2R0jFhUme+c3vCf8GuBoUE0CHI=
+
+Name: tables/CR_In_Letterlike_Symbols.bin
+SHA-256-Digest: MAZyDFTRx1iyc+EaGM0UTORGO4n0tOib+TgSr/K25yQ=
+
+Name: tables/CR_In_Limbu.bin
+SHA-256-Digest: Z1MDdr+gwNIXRTw3zfGTCI5tTgCcvUMuHcHar03SR4k=
+
+Name: tables/CR_In_Linear_A.bin
+SHA-256-Digest: kpZ9G2eGyFtwueBPmHQgHEQ2VTMvpwj07Y0afXu1oCY=
+
+Name: tables/CR_In_Linear_B_Ideograms.bin
+SHA-256-Digest: ZdQHYHxBnzIhrdC+FJEXGSsXOrXtITEEZE2kNmYg/NE=
+
+Name: tables/CR_In_Linear_B_Syllabary.bin
+SHA-256-Digest: y9nwP/mJK5UAIHFU5Hovd6JzfNjDgZQgPj1Qr5sMClk=
+
+Name: tables/CR_In_Lisu.bin
+SHA-256-Digest: oCMPdomTTsVXAb+kbx2Sol2yCXfaepPpBCpysoahV+I=
+
+Name: tables/CR_In_Lisu_Supplement.bin
+SHA-256-Digest: DmUDLgn9+FMzCCn3jyFMry8mlggP0od9aHUo+Zjh+5w=
+
+Name: tables/CR_In_Low_Surrogates.bin
+SHA-256-Digest: RbHdjrsZ52a3NSi5j4f6n3gObIzcLmQQsP5DUEcJ+RA=
+
+Name: tables/CR_In_Lycian.bin
+SHA-256-Digest: 5Shp/IilTbbvDOl44JPj7fLFwCWt/6fwRz1wZhGRDlM=
+
+Name: tables/CR_In_Lydian.bin
+SHA-256-Digest: KSn0Gt9LBvTTkGb+I8IdKobjRS1mKibxb8YUxbbgGMU=
+
+Name: tables/CR_In_Mahajani.bin
+SHA-256-Digest: 28sMPB/yL9a/+GZeYdJjRCHiOBHL45fbv9My/9dWw/g=
+
+Name: tables/CR_In_Mahjong_Tiles.bin
+SHA-256-Digest: LjPqWfM5LwRsKtK72AtApEpvb5WrB7Lglr2d0aLNU9Q=
+
+Name: tables/CR_In_Makasar.bin
+SHA-256-Digest: 7g7WjLdnmcuYkuBWrxHNrRPbGmlYWYylbQQsCTWBRi0=
+
+Name: tables/CR_In_Malayalam.bin
+SHA-256-Digest: 4+G0+Sa1/0avgfgwdMNmWJtx5RV2I3p6ULSdtyQqSDE=
+
+Name: tables/CR_In_Mandaic.bin
+SHA-256-Digest: L581XVB5vOe8KzP0kA46T/n3ewx+oe7qJTSnNHkn/jM=
+
+Name: tables/CR_In_Manichaean.bin
+SHA-256-Digest: 1MFyuKY2xRb3uDqhJPFqFSvwuRAFFiilSWFurdrFyk8=
+
+Name: tables/CR_In_Marchen.bin
+SHA-256-Digest: YrOVIGBgMC5yQ9AQGqw93JA7/pfX0yI4sWEbkC79RcU=
+
+Name: tables/CR_In_Masaram_Gondi.bin
+SHA-256-Digest: GBY0dan6ms+SjtGya/SfBL0X8FDYS8vftu5Trv6i2EI=
+
+Name: tables/CR_In_Mathematical_Alphanumeric_Symbols.bin
+SHA-256-Digest: DAv5QIrjzI3py7RD0dsV9g+Tg+LQySBconJJzNyfQNw=
+
+Name: tables/CR_In_Mathematical_Operators.bin
+SHA-256-Digest: sbgRAD9A5E8nE9Qh+va/yJT++8p4nJyW+hMpLy66ZWo=
+
+Name: tables/CR_In_Mayan_Numerals.bin
+SHA-256-Digest: B23RMT2Lqe4xASHtrd+u8JoUfvFHpzieGLpT9mtZ6Ws=
+
+Name: tables/CR_In_Medefaidrin.bin
+SHA-256-Digest: 7dyG3EipjKfjAOCH/GTfG/EQCzRBXd+hyAixqBWw8XI=
+
+Name: tables/CR_In_Meetei_Mayek.bin
+SHA-256-Digest: NG/wIiwz4FzRof4L34ar4XLrCpHbz7HqXPYFdCslekY=
+
+Name: tables/CR_In_Meetei_Mayek_Extensions.bin
+SHA-256-Digest: y+JPtp8Yawew3LKLpy1DxHmP8aCAIdHCgy5jiJMZi1U=
+
+Name: tables/CR_In_Mende_Kikakui.bin
+SHA-256-Digest: qARepxik/E5kxFnXtAiC5jSOq74wJywwMQL2QQDrbRw=
+
+Name: tables/CR_In_Meroitic_Cursive.bin
+SHA-256-Digest: UpFwIfWY/tLP2tkqT8C1KdBjqOGAZ6pb6ZaNzz2bUdM=
+
+Name: tables/CR_In_Miao.bin
+SHA-256-Digest: 8Ni0zx/XyQritIJicHdgLDNYnOez2DZJfwq0nVsGbIE=
+
+Name: tables/CR_In_Miscellaneous_Mathematical_Symbols_A.bin
+SHA-256-Digest: NClXWONS+aaG+udK0kbAccyHB+PHJdGHPyKQHmH8IQU=
+
+Name: tables/CR_In_Miscellaneous_Mathematical_Symbols_B.bin
+SHA-256-Digest: iFCLKLLzCtNLPO9qYq9OqhQ6dCu5L3IsIy61+Br4/WY=
+
+Name: tables/CR_In_Miscellaneous_Symbols.bin
+SHA-256-Digest: 9qVTV2V7az/4skhgi7WWjBBZtC48ByiVVL4iXSRMz9Q=
+
+Name: tables/CR_In_Miscellaneous_Symbols_and_Arrows.bin
+SHA-256-Digest: qZQDLvFY48GiMoWsY6LlMOz44eZAk+KjJYPDiaSGjM8=
+
+Name: tables/CR_In_Miscellaneous_Symbols_and_Pictographs.bin
+SHA-256-Digest: M+7tEOFCmF5WeC8Q3ZrfbBZUdCtF1waZVS+i9NnIS8Q=
+
+Name: tables/CR_In_Miscellaneous_Technical.bin
+SHA-256-Digest: N5ymaHSpz/49Tj0ke/edpx8PbxP+AgtAV+gnQoxfwIM=
+
+Name: tables/CR_In_Modi.bin
+SHA-256-Digest: Gnw1m103kHzqoeuTBc0mqysVU8p1yI1BDjh2JZySDWs=
+
+Name: tables/CR_In_Modifier_Tone_Letters.bin
+SHA-256-Digest: Q+hDFLTXVV1h+JRNG4buEGCqPLpaRB2oRN+onUfVnNM=
+
+Name: tables/CR_In_Mongolian.bin
+SHA-256-Digest: ZcHcH/PAY7jnr70sjPWLc0NeaV22IFoth4i2mDjLfMQ=
+
+Name: tables/CR_In_Mongolian_Supplement.bin
+SHA-256-Digest: LY7IzYj1PYASge/uu+UJTcvIQe/z98RCdt1aPzT3dXk=
+
+Name: tables/CR_In_Mro.bin
+SHA-256-Digest: QV54gasJCszyWO0ERPCfV11/ZSn0TgI6Ab/9NEu2rKc=
+
+Name: tables/CR_In_Multani.bin
+SHA-256-Digest: FwT9ixUvgi9SDdp3Fb/IR1V0wtbv2FuEWt2r4Bo8K9M=
+
+Name: tables/CR_In_Musical_Symbols.bin
+SHA-256-Digest: J7cCboyL/0ztiPJcQ5j7gNRRnVSMMIOqKgi31ytOazg=
+
+Name: tables/CR_In_Myanmar.bin
+SHA-256-Digest: HbMdA+05BSb4sde3o/dPFso0L1sl/nAOOyFOukv7YOs=
+
+Name: tables/CR_In_Myanmar_Extended_A.bin
+SHA-256-Digest: 1oYAN3A4jq5uFiyOzOmFwpUB3j4IwMI0x9OMPQ1pUdM=
+
+Name: tables/CR_In_Myanmar_Extended_B.bin
+SHA-256-Digest: 1Ty5uKud+uOmJirzwspSwoz3uiDk0DEhHH/tVk4+h2E=
+
+Name: tables/CR_In_NKo.bin
+SHA-256-Digest: s/hiXu0k6usMb9PW8YIleVvWG2+JzJ0bwA4w6bDd9P0=
+
+Name: tables/CR_In_Nabataean.bin
+SHA-256-Digest: 5Jd0OaccUL3BCyJ0JJ4BkxsxvwO/mum65Z7CDYoo1NA=
+
+Name: tables/CR_In_Nag_Mundari.bin
+SHA-256-Digest: 1grcKFvTXLIIum3Xa95eEgi2VEBbkFtilFGL1/wn6Rk=
+
+Name: tables/CR_In_Nandinagari.bin
+SHA-256-Digest: lc+ZIASouUXlCMmCGxh84bMgxMFTxzBzASVjrhaWXRw=
+
+Name: tables/CR_In_New_Tai_Lue.bin
+SHA-256-Digest: +PsaB2rvCtaioVj4JBudPSsFyoJlEMXRmwaP1c2Kqw0=
+
+Name: tables/CR_In_Newa.bin
+SHA-256-Digest: si5LKls8JhhPhvRSANt/yM8B7F8OLO7Q2M5y6vP0wlQ=
+
+Name: tables/CR_In_No_Block.bin
+SHA-256-Digest: nRbFXw50k1TR+5UT9PCYtGgaxglBbyRpJ5Uqa/DFcmc=
+
+Name: tables/CR_In_Number_Forms.bin
+SHA-256-Digest: Qa0/ZmvXHFjtij4MFU3KXL5KhlduD9AcnM+z6Xs1Cz4=
+
+Name: tables/CR_In_Nushu.bin
+SHA-256-Digest: hGoWSvLvQKkXAleIDUmu+A7/S75/8z3W81oyD0HK4oQ=
+
+Name: tables/CR_In_Nyiakeng_Puachue_Hmong.bin
+SHA-256-Digest: 7Jnv41+abEzFCeNNzP1Bhajc/2Jm6dYbdtzBbPlXY2k=
+
+Name: tables/CR_In_Ogham.bin
+SHA-256-Digest: cPrqBRujf2ORtNOBaS1t7EtE3/ENpnrntYW61QzR+5w=
+
+Name: tables/CR_In_Old_Hungarian.bin
+SHA-256-Digest: EBZedSvYvSJaOjV0gaWNvSuwb2obOzwU+rAPvDG6VWA=
+
+Name: tables/CR_In_Old_Italic.bin
+SHA-256-Digest: 9co+htYz/qJHLQ8wuCQEgNKbcivTO1GS/W2tBKMPHY8=
+
+Name: tables/CR_In_Old_Permic.bin
+SHA-256-Digest: ExlW+k0cKbMeqX0Qr54Fkmip0wgLKE8BgzbAI3RBD6k=
+
+Name: tables/CR_In_Old_Persian.bin
+SHA-256-Digest: RWN10AahMpaGnCx5+gQ5PrRbFS9rSjwkBUMPBJwdCTw=
+
+Name: tables/CR_In_Old_Sogdian.bin
+SHA-256-Digest: uJrnEDD4Bv3zqhx7bltzOTa4ItpATjhT0CTz4ctS09s=
+
+Name: tables/CR_In_Old_Turkic.bin
+SHA-256-Digest: 5pQFdI2fGlIIDxRwOGGdQvDcpGPAHip4G1KwtohqEV0=
+
+Name: tables/CR_In_Old_Uyghur.bin
+SHA-256-Digest: 3HGZCc/dUujtmR+u/YQ0tTXjJFhBlUih+SDmJ20Hekw=
+
+Name: tables/CR_In_Optical_Character_Recognition.bin
+SHA-256-Digest: PLV+fuhAigo7Ph17d9p5kBAaYEl4UeoFY1Sp1xshhBI=
+
+Name: tables/CR_In_Oriya.bin
+SHA-256-Digest: J1WHtIDAV7I+nmNE2zDUs18CMUp2YrKzJEKKdU/d7tA=
+
+Name: tables/CR_In_Ornamental_Dingbats.bin
+SHA-256-Digest: FnoE3W5GHAlYqPTVKhWulWg8XJp3B/dEWbDYI5JcpQA=
+
+Name: tables/CR_In_Osage.bin
+SHA-256-Digest: lPNma7ORg+uJEn4bJ0rRcuew6a/S23OGmQVwc4A2usw=
+
+Name: tables/CR_In_Osmanya.bin
+SHA-256-Digest: Q3/Lg8YYViyAoMWw/JwxTQMdAOWG7MKiPxmwLMdF8To=
+
+Name: tables/CR_In_Ottoman_Siyaq_Numbers.bin
+SHA-256-Digest: vPWdxm9x4sRv8WVyKv2oDlVKG4MHAFDAoui/iDBKc7g=
+
+Name: tables/CR_In_Pahawh_Hmong.bin
+SHA-256-Digest: AWoa+JeH/1WpUhkLCN6J4GBOmkMYBI/n6OecJOc2pWA=
+
+Name: tables/CR_In_Pau_Cin_Hau.bin
+SHA-256-Digest: laOLhZLQ1/Dxeq9uFDDXIrZmPba0ReQ7dSQjAP4X0d8=
+
+Name: tables/CR_In_Phags_pa.bin
+SHA-256-Digest: zi8dg5jdy6TpI3mpP5zX3kBN5RdTcHZGaBKttoiPiyE=
+
+Name: tables/CR_In_Phaistos_Disc.bin
+SHA-256-Digest: lEaJkw9LiTyCxkujcYX7vezjqyr/ANAGFxJAN216Yjc=
+
+Name: tables/CR_In_Phoenician.bin
+SHA-256-Digest: Kj8Xn7UIZoF3NOZvxT4BXIYQfVy+G4TN4UlABdtMZ8I=
+
+Name: tables/CR_In_Phonetic_Extensions.bin
+SHA-256-Digest: En/knoM+IQTQcUBqnYXaUwx0gpqOOAyuScAkgz766Tk=
+
+Name: tables/CR_In_Phonetic_Extensions_Supplement.bin
+SHA-256-Digest: NNqPyS+5Ca46k/9fHXyEvERcdflPcJWvyhdlUn9+3UM=
+
+Name: tables/CR_In_Playing_Cards.bin
+SHA-256-Digest: aELtxTyp8ngCeceCVqSTXWoKXZtZoUt/D3MDZ20Qgvs=
+
+Name: tables/CR_In_Private_Use_Area.bin
+SHA-256-Digest: uD9elCKcOTaaUwBQi+5gVrTVXpNktdWNUh4N57KFZEY=
+
+Name: tables/CR_In_Psalter_Pahlavi.bin
+SHA-256-Digest: 6Y9ZsLxAAvLxReWcQXyh4gEBETS+ZVpYXTGDoIR1ZHc=
+
+Name: tables/CR_In_Rejang.bin
+SHA-256-Digest: 2SzfjziQAgpnAPPE6pFP31sv3XgmzToJdJ+wQWPSBwQ=
+
+Name: tables/CR_In_Rumi_Numeral_Symbols.bin
+SHA-256-Digest: QTrYUWJI5SngD3Yh3CznURLWTWAF+omhncXwUUOXx7M=
+
+Name: tables/CR_In_Runic.bin
+SHA-256-Digest: c9R6GAuXPsDbPaGCutmXe95OsnHVvUWmRQqHSSccJec=
+
+Name: tables/CR_In_Samaritan.bin
+SHA-256-Digest: wlQS20j9Gxsc50IwYCH0grXBB3DLWuUwXQrORX0ISUQ=
+
+Name: tables/CR_In_Saurashtra.bin
+SHA-256-Digest: j6b+/56YtPuoX5sgzLJg59azN/RPUFBlcG5sfWJZzv0=
+
+Name: tables/CR_In_Sharada.bin
+SHA-256-Digest: HiBJl8wdRnUi2GKswqUk8xuHmso7TeEijYRzY2ngGhY=
+
+Name: tables/CR_In_Shorthand_Format_Controls.bin
+SHA-256-Digest: Ol961IK1Cc2x5ymDYUghUeBNznfA2KAHAWdE7WQ/dlY=
+
+Name: tables/CR_In_Siddham.bin
+SHA-256-Digest: GYrLoSivX5ZyFnmRyskQV/C3fv6yp1PvlIH+8zC0kBs=
+
+Name: tables/CR_In_Sinhala.bin
+SHA-256-Digest: QzkAt3hInf/dyD3hfQrj9CBW2vUaV6WVj9CsXi4fXNY=
+
+Name: tables/CR_In_Sinhala_Archaic_Numbers.bin
+SHA-256-Digest: OeUsbuU1znOJEnRtZ0GhaBGI+l9/ABoU6IPjQL2ZuBM=
+
+Name: tables/CR_In_Small_Form_Variants.bin
+SHA-256-Digest: 2lPlsDIDkkPJM6R8H5/ZkjsRLUBGXIZbNgiT8BniXAE=
+
+Name: tables/CR_In_Small_Kana_Extension.bin
+SHA-256-Digest: 9MAzQ+BjurlYjmMyot/I3Ch/3uXE6SqYeLMZknS4kuE=
+
+Name: tables/CR_In_Sogdian.bin
+SHA-256-Digest: RHeTkdiL0gOwyoJJwEUmcHzbZflsdBihitcp8RpqekM=
+
+Name: tables/CR_In_Sora_Sompeng.bin
+SHA-256-Digest: AEpHOuRoKkCGG6B733Cz6cjJbWG/9S/7m+fRvWXRVNM=
+
+Name: tables/CR_In_Soyombo.bin
+SHA-256-Digest: Gbn1hggMQlvP4g5GoRxAotMQShBQWC9gr11c9ylLWVM=
+
+Name: tables/CR_In_Spacing_Modifier_Letters.bin
+SHA-256-Digest: DDETyeZVuXJgkCTl0KngB+JLD+a9K1BswJA7svkFpwI=
+
+Name: tables/CR_In_Specials.bin
+SHA-256-Digest: s8CDteJQr+PoEqYJZ9LTQGoAWZdY0QFJZri5zSgHEdI=
+
+Name: tables/CR_In_Sundanese.bin
+SHA-256-Digest: YripbW7Qo0U0ZW91fJvES6Mk636iw+51j09BDfXcJmI=
+
+Name: tables/CR_In_Sundanese_Supplement.bin
+SHA-256-Digest: 8Imbzpd3A2FYLfUkFmLIyBhF0b25hi6fZ0NXUcDJupM=
+
+Name: tables/CR_In_Superscripts_and_Subscripts.bin
+SHA-256-Digest: cfG1h7I/EUFo4J4ko6DN2uUq9VN2SLRuIKVGHv+GuXY=
+
+Name: tables/CR_In_Supplemental_Arrows_A.bin
+SHA-256-Digest: 9KFoOBzfOto0Ig1/6jlXoL3+Xs085DUAKev8UM4QgwM=
+
+Name: tables/CR_In_Supplemental_Arrows_B.bin
+SHA-256-Digest: jIhvjvpV2Pate1U18qVqS+URxHR9DsqGDWt1CxRBJdo=
+
+Name: tables/CR_In_Supplemental_Arrows_C.bin
+SHA-256-Digest: ZOwTDpRpLqgkfFEwuEWosYuoHkPstW5mDIr/AOCR27Y=
+
+Name: tables/CR_In_Supplemental_Mathematical_Operators.bin
+SHA-256-Digest: 8aVTQQa/tAAatPgZEKqWDkDn2PXpTLXlZiyauLUHat0=
+
+Name: tables/CR_In_Supplemental_Punctuation.bin
+SHA-256-Digest: 5mcHv7rj02/DemDuSJMSqzS17UKDlOOGUuLznS4in7c=
+
+Name: tables/CR_In_Supplemental_Symbols_and_Pictographs.bin
+SHA-256-Digest: AIuoJBTlvn/HoUEYFqnU/B8Pa0jcbL9ui2NvXaQ6BAc=
+
+Name: tables/CR_In_Supplementary_Private_Use_Area_A.bin
+SHA-256-Digest: JsCyf+rN7uGXPX2qeHeKVqfsZieHpWdf7RRkyy/MVP8=
+
+Name: tables/CR_In_Supplementary_Private_Use_Area_B.bin
+SHA-256-Digest: Rq/W1s+WcRIE1o/Wg8qtKk8aWIjJa290Z9FlCGvZEpM=
+
+Name: tables/CR_In_Sutton_SignWriting.bin
+SHA-256-Digest: BiDE+0TwBiWp96+YIJCmEKogLBPIYKcE0skSF5Biqcg=
+
+Name: tables/CR_In_Syloti_Nagri.bin
+SHA-256-Digest: h+BDkUNhRl9iluN7yckm+jK/2FoB6kReAjWhaxL2/rI=
+
+Name: tables/CR_In_Symbols_and_Pictographs_Extended_A.bin
+SHA-256-Digest: TsHZx9MVC7A/Euwd8IKFNSQhKJgumvPbVJzv4X0lHbo=
+
+Name: tables/CR_In_Symbols_for_Legacy_Computing.bin
+SHA-256-Digest: FaMIajtHKe/3kfjHhbWTXcrYNmPQpMZ/J4DlovEpcc4=
+
+Name: tables/CR_In_Syriac.bin
+SHA-256-Digest: IBd3TFo7kJ2CfppjDN+5Ugjys7CBLN1u5ESvtXVives=
+
+Name: tables/CR_In_Syriac_Supplement.bin
+SHA-256-Digest: wd4LqW3Y3GRBCYDBvMBu5IT9q+5/r2SyAkbVSwcI/lA=
+
+Name: tables/CR_In_Tagalog.bin
+SHA-256-Digest: phNALypM3BXEwd1IHCzcyQIQuBiOr3qvLreBx/QMe0I=
+
+Name: tables/CR_In_Tagbanwa.bin
+SHA-256-Digest: fLBPCj3OYajur0SFhERlCxyiIxL1PxUYKqe+uXVLKXg=
+
+Name: tables/CR_In_Tags.bin
+SHA-256-Digest: n1OxrgbCSrMyVxQRVe9HZA/oamdIzKAsVGGgHpVKMAY=
+
+Name: tables/CR_In_Tai_Le.bin
+SHA-256-Digest: 3tr+m6vMFdQJSNO8CjfL1R/nZ+v7Paokk6PKNbHIZNg=
+
+Name: tables/CR_In_Tai_Tham.bin
+SHA-256-Digest: STTyGJKfjfh8IPZnwTSIvWKJdw8B+EoPVrzTJVjyKqQ=
+
+Name: tables/CR_In_Tai_Viet.bin
+SHA-256-Digest: ILJKkcb7p2KNiajwgQ21b+peDQl/haRdHIDdd/Q1U5U=
+
+Name: tables/CR_In_Tai_Xuan_Jing_Symbols.bin
+SHA-256-Digest: 8EsXhUvfQ/XqRudPNCor/NkSRQp7MtopLidr+2zPywk=
+
+Name: tables/CR_In_Takri.bin
+SHA-256-Digest: YHfY503Jpwm02avNY9FjcX+PyAA0iag2LPI2ie4lRTw=
+
+Name: tables/CR_In_Tamil.bin
+SHA-256-Digest: Ji+Rrh4W2dQqkgKFN0GkyD8voc76Ub46BorZrKTWSF4=
+
+Name: tables/CR_In_Tamil_Supplement.bin
+SHA-256-Digest: 9jri+iCXW3msfcWGemxPbkEQvUwqhlpnw6WJwdm6UnM=
+
+Name: tables/CR_In_Tangsa.bin
+SHA-256-Digest: mwbxWNJp6NB2/jD3s+AOiA/F/2f5KvyTKLLk+cLQRX8=
+
+Name: tables/CR_In_Tangut.bin
+SHA-256-Digest: U8LkkX32tydJOQcYzCm+Oc57GocdnP6jz/jUDS04IY0=
+
+Name: tables/CR_In_Tangut_Components.bin
+SHA-256-Digest: MiCaTG+gCNFHKmIBvTf1P+h/5gkbamRllSyTuXkZduw=
+
+Name: tables/CR_In_Tangut_Supplement.bin
+SHA-256-Digest: muOFdJzMDBe/p9+WXliLwoOJYh1FB0+m7X+H5w91gLQ=
+
+Name: tables/CR_In_Telugu.bin
+SHA-256-Digest: OUUrZpRn97zfZApxvP1KVEj0mzIxKrElB+BniiT9+7I=
+
+Name: tables/CR_In_Thaana.bin
+SHA-256-Digest: jcsb89nuxNqrlQy5aacFOQtMRvSlarrNRnzfmliELx8=
+
+Name: tables/CR_In_Thai.bin
+SHA-256-Digest: 0S1llvJt5CPqX7kbjYcX0FiQp5Ena/jBJwS58oW/t6k=
+
+Name: tables/CR_In_Tibetan.bin
+SHA-256-Digest: 5O+o81dfSniuGsBr2seUt4QzR7NI4gcqqCbA9KQQT74=
+
+Name: tables/CR_In_Tifinagh.bin
+SHA-256-Digest: ZxVXH+KQBxx+JZWC70Qali23TnvUW4yzUgGRp94DPi0=
+
+Name: tables/CR_In_Tirhuta.bin
+SHA-256-Digest: I1iDE+opRk24M+OSPegGIJFz/prPioIU3kGntIWuw/c=
+
+Name: tables/CR_In_Toto.bin
+SHA-256-Digest: ZgyFoTBY7BZicn9eHDasXHUfAJDdn0LcMUvwZ9sCt70=
+
+Name: tables/CR_In_Transport_and_Map_Symbols.bin
+SHA-256-Digest: JxXNxs4A0256foqyTAMkfmoJWdwvGQv33DOtPPzEYaw=
+
+Name: tables/CR_In_Ugaritic.bin
+SHA-256-Digest: F/NdTcOxtF4vcWSCwWS6NnkTE898Nr6fPflfBaAP/VE=
+
+Name: tables/CR_In_Unified_Canadian_Aboriginal_Syllabics.bin
+SHA-256-Digest: oMEFWrYWCe5NwpWrF/Kjxotmzx90BOc2qWP7HhNMttM=
+
+Name: tables/CR_In_Unified_Canadian_Aboriginal_Syllabics_Extended.bin
+SHA-256-Digest: SIf7+QO+wTJQg4tFrzsSuxA33W3jrkwOcsRhIfUW/CY=
+
+Name: tables/CR_In_Unified_Canadian_Aboriginal_Syllabics_Extended_A.bi
+ n
+SHA-256-Digest: rdXbqe2eRqgx0wO6ex3D0JzmPcek34wWJdxcR95c+5o=
+
+Name: tables/CR_In_Vai.bin
+SHA-256-Digest: 2Myc62soJdPRTXVBdToM51V7q1h5CKmXoRpy1pnkkS4=
+
+Name: tables/CR_In_Variation_Selectors.bin
+SHA-256-Digest: /Ek7pil/ZsfVvgGW4s+yYuAN4Nk3q8y45fePvZ2jinA=
+
+Name: tables/CR_In_Variation_Selectors_Supplement.bin
+SHA-256-Digest: J6JgFbBGm3CJG1KKCctn7u2OaZD7AouIbfwmVdpJ92g=
+
+Name: tables/CR_In_Vedic_Extensions.bin
+SHA-256-Digest: Aj5bEKrDhbbgHU9ArXCyagp13Q+gJxHYWFgALyctShI=
+
+Name: tables/CR_In_Vertical_Forms.bin
+SHA-256-Digest: TziTF3E12JeMN/k3JV+UIiQkuXp3EpFvKMvWBEeUOwY=
+
+Name: tables/CR_In_Vithkuqi.bin
+SHA-256-Digest: WBOWdHZs2YWHgMdbpbtxjQbom818MJKwZ/H6oRANB6Q=
+
+Name: tables/CR_In_Wancho.bin
+SHA-256-Digest: 2s2JvzGkLBiypxvT7iDwSKzTp38QLUrk6fq8Nl1rjrk=
+
+Name: tables/CR_In_Warang_Citi.bin
+SHA-256-Digest: TVgTzn19wZ1u8ibNVkbyMZhyc7elOXlGTFujyn9Rt/M=
+
+Name: tables/CR_In_Yezidi.bin
+SHA-256-Digest: YNbaM2IuRcYu+sUkWMq6TuTJ/EmM6rWWuT9K/3v9JMk=
+
+Name: tables/CR_In_Yi_Radicals.bin
+SHA-256-Digest: KJqLpz53beaPM8K914VGCUHHT8CZ3NcSnBPyZ9CW+q8=
+
+Name: tables/CR_In_Yi_Syllables.bin
+SHA-256-Digest: iL9I9hvjRBbtaZjcHHg8i+nTaNx4ssyEbCcU0mk69Xs=
+
+Name: tables/CR_In_Yijing_Hexagram_Symbols.bin
+SHA-256-Digest: wrb3uV+m/wl953Tmlqy/tuc+fG0KW2rJ8rs+cRoT3bg=
+
+Name: tables/CR_In_Zanabazar_Square.bin
+SHA-256-Digest: FWCckFLx3NXHVFoJLFLNr6IXz6gVT1hSG24Pwx2Dflo=
+
+Name: tables/CR_In_Znamenny_Musical_Notation.bin
+SHA-256-Digest: ESQ1sPLDfkWyC4DeFlUMNKwwZaFhoSGANlK5ftA2K3I=
+
+Name: tables/CR_Inherited.bin
+SHA-256-Digest: J0MbmxdYBYXKxxjHQamdYAIRhBGa7YFi9U+gLrnj8zY=
+
+Name: tables/CR_Inscriptional_Pahlavi.bin
+SHA-256-Digest: 7GQwmAXSkG0o2n3rXD75qXe5LMPDKkDClhYfRhhAp3E=
+
+Name: tables/CR_Inscriptional_Parthian.bin
+SHA-256-Digest: rYQY540VHU6MXBmD2QhgT624y+xelvpkKg8mZRkEklE=
+
+Name: tables/CR_Javanese.bin
+SHA-256-Digest: 35o+kaaBpGEB9SaI6uHmEa4WWkr679Ed0vJINbjV6dY=
+
+Name: tables/CR_Join_Control.bin
+SHA-256-Digest: posbDd3i1dZnU+uvYAOrNp11Rgf5t6Bn5ZnfMx3w7Xo=
+
+Name: tables/CR_Kaithi.bin
+SHA-256-Digest: s/C/A7DOlrq4lxelBc8ehQpJYNe8VeY3+38WXTzKXlw=
+
+Name: tables/CR_Kannada.bin
+SHA-256-Digest: VkHktclExHSlfsaLSsJF6JozJIioLBfGPBhnVQF8ZYI=
+
+Name: tables/CR_Katakana.bin
+SHA-256-Digest: h6oN34V8z4OqG2PsnWxfW1t5hqg5h6bL8jxoSpZRXEM=
+
+Name: tables/CR_Kawi.bin
+SHA-256-Digest: /xTGlG2BF9jrFUqNnlQ7zc7/r9VsC2HhRmsqAD7pv2Y=
+
+Name: tables/CR_Kayah_Li.bin
+SHA-256-Digest: kmB6LEvlCNyLrcIikVMWgFF6C7IZYplUfb8Iqjng7FE=
+
+Name: tables/CR_Kharoshthi.bin
+SHA-256-Digest: flhhksA4QMsa28VYXGBf+/BgtbKidolC80S15sTGjF8=
+
+Name: tables/CR_Khitan_Small_Script.bin
+SHA-256-Digest: YWJyWdu/CENrtpJQutqCFZ2/iy/ReCxaPJWqI/xmukc=
+
+Name: tables/CR_Khmer.bin
+SHA-256-Digest: QqfuKB4fV2V1FGAC86jCRy81g4SVoxJ/pUBF4uSDfr8=
+
+Name: tables/CR_Khojki.bin
+SHA-256-Digest: ANear7Phb3KkPAkw51LyJznIcgFaM1k+vMctqnOqYxM=
+
+Name: tables/CR_Khudawadi.bin
+SHA-256-Digest: b6a1hIdgw64DydpKfrQW3zu8UDrjJoM6Qmqtdye0tw0=
+
+Name: tables/CR_L.bin
+SHA-256-Digest: P4o3mIDiCERg7kDv3BlHaG7h+tdRXeMarmh7SzeBfew=
+
+Name: tables/CR_LC.bin
+SHA-256-Digest: fYkcpnS8NTOKQppvCKGWsI81yup4IswJKxcEEwoXB0M=
+
+Name: tables/CR_Lao.bin
+SHA-256-Digest: 0MYOjfE0EG0MlZi05QU1GYZPOuI8k9cMrExAYWAVUP4=
+
+Name: tables/CR_Latin.bin
+SHA-256-Digest: 67+p+BoPS9ncVDYkInjIoFnIqxY2H65aG+jbCicK/jg=
+
+Name: tables/CR_Lepcha.bin
+SHA-256-Digest: IFimoMQT1xFJ1jX7ihAP9sskhq0SN7l5S+KIZPQgls0=
+
+Name: tables/CR_Limbu.bin
+SHA-256-Digest: tAhb9xKXF7fYMQCkdHOVZId+Zhg1h3G5uFTD7Yy2QYE=
+
+Name: tables/CR_Linear_A.bin
+SHA-256-Digest: 4WOuDmuCPVPEbGegHn2cur1EP4ViJD0LZ4XVn6Yw05c=
+
+Name: tables/CR_Linear_B.bin
+SHA-256-Digest: P3QZoCqhyCmYQQ9NHkekyl3frVq5/X++b6ra9BX7pcE=
+
+Name: tables/CR_Lisu.bin
+SHA-256-Digest: urCCPgjB+rUw17N5bWb8M4p3ft8nKvPhIU9Zyqrc8S4=
+
+Name: tables/CR_Ll.bin
+SHA-256-Digest: w0nWCVO+YGzpUpIYr9wN6x+BXgt4uWRBEMl+Yhov6b0=
+
+Name: tables/CR_Lm.bin
+SHA-256-Digest: EPt461s4NH/fdNITaVT85VTY+CyoysFF25a+9bb93Nc=
+
+Name: tables/CR_Lo.bin
+SHA-256-Digest: OT3y8RoukWMUjVchB/JeAHsCQnQ2QG6hXOY4wqgKy3s=
+
+Name: tables/CR_Logical_Order_Exception.bin
+SHA-256-Digest: YIOMathF8OUUo1d65Lx/BAS+hRIfxStyqb6iIL4FCQA=
+
+Name: tables/CR_Lower.bin
+SHA-256-Digest: 9XXAhmmU1dhuyDlfrWbhjMR+TZ9CCiEgP9C2CIZW5ps=
+
+Name: tables/CR_Lt.bin
+SHA-256-Digest: 012Q2oujOttjndaqtRsPNBaBeb2ZDN+uCFfi9NbTeyE=
+
+Name: tables/CR_Lu.bin
+SHA-256-Digest: uZ/S2UruHJqbCzTvQTUjSiJwzvUAJAjJ6o1QDMQ8olY=
+
+Name: tables/CR_Lycian.bin
+SHA-256-Digest: Hs4EPUidBw6tfnWy8T1qadWJMiAUc0XdOPV8vNIJEu4=
+
+Name: tables/CR_Lydian.bin
+SHA-256-Digest: W0kBT9lkH3ZfBgaTtEn1Eu6dzDeCA0EBwzjbZdDmlqw=
+
+Name: tables/CR_M.bin
+SHA-256-Digest: 97mOW1CZ9va5K5N1nhPe8RgX2dCcNZk7+hqPlOYYnUY=
+
+Name: tables/CR_Mahajani.bin
+SHA-256-Digest: JkIZ1ArLBu7IUvN9Y2soNKE6kbNmyJCUO4vQ2dqD8xw=
+
+Name: tables/CR_Makasar.bin
+SHA-256-Digest: /kJ27s7AtTxrQv4vTOMx90xah0wH2a2NDeC1z7YwfUM=
+
+Name: tables/CR_Malayalam.bin
+SHA-256-Digest: NtrWyPwHALL0hoBrzbvwIRudtxZZLG4h3bIb+uWmNec=
+
+Name: tables/CR_Mandaic.bin
+SHA-256-Digest: Dt4oQO0Pqfqj6r8lIZYZcmXzg9nhGIPfzDmgWp37yKY=
+
+Name: tables/CR_Manichaean.bin
+SHA-256-Digest: lKRuxoKyHIlxaHU4205JTNUoA1vbZk84MKY6jm8Uhfk=
+
+Name: tables/CR_Marchen.bin
+SHA-256-Digest: fupFsZxbwVeY23Iz6JY4THHbh4HFHyvuf82gye1zGCQ=
+
+Name: tables/CR_Masaram_Gondi.bin
+SHA-256-Digest: yDQZo2Iyis2e4LYBy8fCSstm/qp1m4gdENbS8DAiRuo=
+
+Name: tables/CR_Math.bin
+SHA-256-Digest: 9ym7jL4m28k8iY+WfrGkrX5rOKXfpS5C5jqdtJWhrO4=
+
+Name: tables/CR_Mc.bin
+SHA-256-Digest: +/TTPbAtUkMNllIPCX9IcP1uKum+IRH74IWtlQH8iO0=
+
+Name: tables/CR_Me.bin
+SHA-256-Digest: gz+Sr3+G4YX9Gffou8LrhFDp1zgbq8QbF4twoJrqn3A=
+
+Name: tables/CR_Medefaidrin.bin
+SHA-256-Digest: HFJNOymX1t/HY3dd2MqL4ZcNHFNJTSDIZEVbP+JOm5E=
+
+Name: tables/CR_Meetei_Mayek.bin
+SHA-256-Digest: oeTJtDPEGLhdB88S6N+Udkyi/iYhjfBykTStpZYsf0s=
+
+Name: tables/CR_Mende_Kikakui.bin
+SHA-256-Digest: caMVFsXktXP8gperP4WsuOqWOlyYqTI4urBM1iynik0=
+
+Name: tables/CR_Meroitic_Cursive.bin
+SHA-256-Digest: QpSVcqJEiPTz4mgkYwnOzj2kBbVHu4AoO0IYMn5Yusw=
+
+Name: tables/CR_Meroitic_Hieroglyphs.bin
+SHA-256-Digest: ZXNxKCbOXr8rOegQ188eZYgsUjmOjkI8wqiLvXxLLsM=
+
+Name: tables/CR_Miao.bin
+SHA-256-Digest: xaAxfqkTnTyl7HGrqg2X9uhxuh0NTF16248vroPmV1o=
+
+Name: tables/CR_Mn.bin
+SHA-256-Digest: xKkW0pI62+AMLwfgH1y5Fhi+2mbQpiQIdOSm5+iU+GI=
+
+Name: tables/CR_Modi.bin
+SHA-256-Digest: 3arZov5n/RgMSPSzvnLTGzmi0GMhe1dRe3RXZpG2lH0=
+
+Name: tables/CR_Mongolian.bin
+SHA-256-Digest: DujUT1Azd7WAWi4+Qj76uo2DMhkU+6cspJwfQKYWwd8=
+
+Name: tables/CR_Mro.bin
+SHA-256-Digest: jdwZUEXXCybywB6si4bWYw+uEN0qb09uRtm5rFI/HHo=
+
+Name: tables/CR_Multani.bin
+SHA-256-Digest: pr7ut43Gsw2Dk5WAOAkMqHwhjErHNNP79JAJcVy6XuY=
+
+Name: tables/CR_Myanmar.bin
+SHA-256-Digest: 3dv3x6R4lp607Bq6K7Zo6d+Ou+46yvVr3p2P1p2SIxs=
+
+Name: tables/CR_N.bin
+SHA-256-Digest: CguXaPbkuD6JF7aCiyi+dEhetHCY8w5mhnsituSOLYY=
+
+Name: tables/CR_NEWLINE.bin
+SHA-256-Digest: VZAOvMCTixVqGeEu3fzgBo0SSJQlAyqkTW4WYW3OfFE=
+
+Name: tables/CR_Nabataean.bin
+SHA-256-Digest: Eck00PTgh+4L0yN/2gSVL4J5As7AuZTwQSKQ7/jO0PM=
+
+Name: tables/CR_Nag_Mundari.bin
+SHA-256-Digest: Fns641So2vtYMSwX5BAds7X8wzbKciDAJUD9BxE8Cf0=
+
+Name: tables/CR_Nandinagari.bin
+SHA-256-Digest: BIAaBnBdJsBoZNqEBZDBgFNUVYHGiXl+5FQjrUEpLiU=
+
+Name: tables/CR_New_Tai_Lue.bin
+SHA-256-Digest: gChsc2sIjKGjutRkQLiV01afw0QDEuHHB3bCxMcwE1k=
+
+Name: tables/CR_Newa.bin
+SHA-256-Digest: YjQV9vIPgKhsJ1Xqu2o11CKDhi8rKLLQyrINRHnfh2U=
+
+Name: tables/CR_Nko.bin
+SHA-256-Digest: OKWuEqti82TUY0VXKZU5zz7S4KBilfnJNIilDIhQxQI=
+
+Name: tables/CR_Nl.bin
+SHA-256-Digest: j0hZ2OFP+GiHsVRVJ39yjWGWVXdLdLILKBsqEn5+KH0=
+
+Name: tables/CR_No.bin
+SHA-256-Digest: 8T2viz71daE5GigWlGt6rhvhvS7rJ0cRGVFIBJuYU00=
+
+Name: tables/CR_Noncharacter_Code_Point.bin
+SHA-256-Digest: SvyMnbo7RIANPyL6D/Dc65Q8K5HC4l3c4cd05INE2v4=
+
+Name: tables/CR_Nushu.bin
+SHA-256-Digest: tdc/bpkqZNPBQk0fkLuRoyGN7HTpFF2wJSvdK6esWPI=
+
+Name: tables/CR_Nyiakeng_Puachue_Hmong.bin
+SHA-256-Digest: ye3bLYgQnanlfgg9EBZd47YKuR1L3xntbUnL6JuxJro=
+
+Name: tables/CR_Ogham.bin
+SHA-256-Digest: cfR97ePgNJnAVxvkp7qr0EWJpBQQZ0F2/uscZ1DUpKI=
+
+Name: tables/CR_Ol_Chiki.bin
+SHA-256-Digest: 7m94JnoWjYh8eMPPJ+W2QInPZgRELhJSzDznl/T7OTo=
+
+Name: tables/CR_Old_Hungarian.bin
+SHA-256-Digest: qrD5Aj5GhiXkAaSAet5ariCVPBL6dSZ3cGaDn/sPiLg=
+
+Name: tables/CR_Old_Italic.bin
+SHA-256-Digest: KOmFv+SKORV1XoVfHOUL8ODCS80se2LZ4dMACVGbFe0=
+
+Name: tables/CR_Old_North_Arabian.bin
+SHA-256-Digest: V/YGMjvqb/mKMrgUnq6UOFqz6zg+Hkk1CMass5JKOGA=
+
+Name: tables/CR_Old_Permic.bin
+SHA-256-Digest: c99j+Jj5o6sPJBto2b5jyco8hYsrM0ie3PC297Egl14=
+
+Name: tables/CR_Old_Persian.bin
+SHA-256-Digest: AjUztaz1qE8+f17yD09tCLaABRyWBT15q1iAqlaNBbI=
+
+Name: tables/CR_Old_Sogdian.bin
+SHA-256-Digest: WSm7/s5be9B0YIjzRQuAeJKCRRJDgBASsGVB66mHHkQ=
+
+Name: tables/CR_Old_South_Arabian.bin
+SHA-256-Digest: aSAn4zqCfWVJR71aabs67SB9In5nZarlcUCtpO1uUvk=
+
+Name: tables/CR_Old_Turkic.bin
+SHA-256-Digest: EEckVIpp9ugcBh9oeoGu72t6Jj6jZxaPXSrksfpPZZ4=
+
+Name: tables/CR_Old_Uyghur.bin
+SHA-256-Digest: rStUw4XLoR2I3OWjqWKR0rJA+oN53f4WmSE0pTRGPIA=
+
+Name: tables/CR_Oriya.bin
+SHA-256-Digest: +tcEJi3hNQj44VCm8qdgFylxZw6L1L11bYAm+3p+/k4=
+
+Name: tables/CR_Osage.bin
+SHA-256-Digest: lni/OL0KOYuvD6ktMOvySsQ7/2pRtxQZoYXgPaIfW9Q=
+
+Name: tables/CR_Osmanya.bin
+SHA-256-Digest: fhTnEmki0sr0Tu43G33A+k0pNLxwzkaXSc/FdNTm/s8=
+
+Name: tables/CR_Other_Alphabetic.bin
+SHA-256-Digest: USBbNXTWgIklTk4WYfAbB0QqeFH7Nz+fUYqg45Bl5TE=
+
+Name: tables/CR_Other_Default_Ignorable_Code_Point.bin
+SHA-256-Digest: Sej4lcTmKw40s7SNE+bn8We3ZBOjNa2k5AUKkbehJmA=
+
+Name: tables/CR_Other_Grapheme_Extend.bin
+SHA-256-Digest: Swb2BkFGTSQzdNsFb2L8HD0EPAUgMos27LiunZMDJJQ=
+
+Name: tables/CR_Other_ID_Continue.bin
+SHA-256-Digest: saE8GOC7+wdtJA5oncr1R59OKZmMPrcjSbuJYaeGx6A=
+
+Name: tables/CR_Other_ID_Start.bin
+SHA-256-Digest: VdL12+J0dIklu0naV5rZkVoYI0LPMxUJtsznweGylJQ=
+
+Name: tables/CR_Other_Lowercase.bin
+SHA-256-Digest: q/Qf0d9NySna2+96V3crAseplxfZmkno/RbieXbWCqw=
+
+Name: tables/CR_Other_Math.bin
+SHA-256-Digest: r4Ll4N5e3drF+1vllNNWV1+oUZGBpj7vBuBYowfuh1Q=
+
+Name: tables/CR_Other_Uppercase.bin
+SHA-256-Digest: lFPje7ybBVb1Uw/SWSUJSyr1BzXmU1iWTE5u0RWgKG8=
+
+Name: tables/CR_Pahawh_Hmong.bin
+SHA-256-Digest: IPebOlEgwkgfoDtIC8gzi5+MDuFotFW86vzPUvSMOYY=
+
+Name: tables/CR_Palmyrene.bin
+SHA-256-Digest: 2/AtPgGnSl1wHPG6upbt3JdNZprjhjCElKDSRiuOrKs=
+
+Name: tables/CR_Pattern_Syntax.bin
+SHA-256-Digest: vmsRDWZ2GjuExmpkEGm7Xk6EEay6n+gPQTWMZBfcWMc=
+
+Name: tables/CR_Pattern_White_Space.bin
+SHA-256-Digest: ECRAbwLBnh2gw5cdpS/HYlUJ5ZEOYmPXOWtNFzkpLkA=
+
+Name: tables/CR_Pau_Cin_Hau.bin
+SHA-256-Digest: 6YSjZcyXk5fPk5wgrVR4EqyONMJwSl7fCLnjGpsbeRk=
+
+Name: tables/CR_Pc.bin
+SHA-256-Digest: 1uB0A8HxwNEorZdp5PVej8IhRLpxSVbxuc4gFewkpaM=
+
+Name: tables/CR_Pd.bin
+SHA-256-Digest: bLNbCea1XWO/Vhpk32QjfiuzBBRYuh5PQS0ZA5vli+A=
+
+Name: tables/CR_Pe.bin
+SHA-256-Digest: sgV/TqBlaRZ84Vh0ajhmnnTYYA6ZUW0lyakLZ9OSgZg=
+
+Name: tables/CR_Pf.bin
+SHA-256-Digest: Rqs/MgQ1vWGry1cvCdppE+dwFQo3DV4LiP5qGaOlwmg=
+
+Name: tables/CR_Phags_Pa.bin
+SHA-256-Digest: l2B3wBDpMZwjiqtvDGENtmUMs8euALU3jQhgY7nnZJw=
+
+Name: tables/CR_Phoenician.bin
+SHA-256-Digest: cKitjb9lNVo2rgpPMG3dS35cZ/f4X33do0idO0U5g7s=
+
+Name: tables/CR_Pi.bin
+SHA-256-Digest: jE8cVHxUguunq7G5nE0ivDKF3/QQCGSiEAfxYWPmkJM=
+
+Name: tables/CR_Po.bin
+SHA-256-Digest: vtdn8zn+0kMr5iT+OG639Zx7B/7L1imTZdZpwGpchLA=
+
+Name: tables/CR_Prepended_Concatenation_Mark.bin
+SHA-256-Digest: pG2DmNdq4ilRsLm+5bO6MZX1RbFVL9P+FsFM9Yx9VUA=
+
+Name: tables/CR_Print.bin
+SHA-256-Digest: nSLGqlHfrD9wHnAKynAMh5VP02eu1XBYevNsfmk7U8A=
+
+Name: tables/CR_Ps.bin
+SHA-256-Digest: GJ96Xz0UD6L7jDVhvR0VXa6h1Ro2pUPJu0Fff0gnOsM=
+
+Name: tables/CR_Psalter_Pahlavi.bin
+SHA-256-Digest: c/3X91q7MI0zYoUihFd7YS9PGwDxZVhkm9EVLdUtE04=
+
+Name: tables/CR_Punct.bin
+SHA-256-Digest: iwrWze3uKctN+C8sdfcdhpFEN0giDtUCEUAyCwVqC9o=
+
+Name: tables/CR_Quotation_Mark.bin
+SHA-256-Digest: HLjQGTf3qiI8uAjkcZsoPHNC3IGg+c2GFiVwVR4R0bQ=
+
+Name: tables/CR_Radical.bin
+SHA-256-Digest: PoF9JnbBzGikLzPn0DN7E5s184MEUYIFHRgbvcqdGxg=
+
+Name: tables/CR_Regional_Indicator.bin
+SHA-256-Digest: KMTBQ9dun/qv4/g35UtqavaNvthSxAE/0aA17STLIy0=
+
+Name: tables/CR_Rejang.bin
+SHA-256-Digest: VaWtRlpKFzqwqueNWGDtBnTw1KRo1ZNTj4bRnu2j/9k=
+
+Name: tables/CR_Runic.bin
+SHA-256-Digest: c9e68prcdDbx3Swimzr7h2KhJbqW63ez3mizqDomFTk=
+
+Name: tables/CR_S.bin
+SHA-256-Digest: gD/o5Dv5VQvBvLjERbzYGBgnYaPPg3shPPw4U8qE4gs=
+
+Name: tables/CR_Samaritan.bin
+SHA-256-Digest: Ypfv55At6s55f9vqJkpt3fwN5Rad04BgSgMC2+NBU8g=
+
+Name: tables/CR_Saurashtra.bin
+SHA-256-Digest: nhB2vm4YeWXHU0qfolFIs7/tuqxOsDRvTbSibW0fhnk=
+
+Name: tables/CR_Sc.bin
+SHA-256-Digest: H/GkAJicKU1Zlw1VqjKB1u4HpNw4UJAYNkMQX9J+HQE=
+
+Name: tables/CR_Sentence_Terminal.bin
+SHA-256-Digest: 5+WIXUAo7RYCvcAoCwfaWqyIRyv6SYB4j4nqeJ7vBcg=
+
+Name: tables/CR_Sharada.bin
+SHA-256-Digest: HiBJl8wdRnUi2GKswqUk8xuHmso7TeEijYRzY2ngGhY=
+
+Name: tables/CR_Shavian.bin
+SHA-256-Digest: MLYOdbC+0P/xNrZeqkMOLX0K/nhwCvXSNJh5A/73NOY=
+
+Name: tables/CR_Siddham.bin
+SHA-256-Digest: yB3FEj3TKX4pIgnVs50bIGO4+X2HoRH+ncUEY8frJUg=
+
+Name: tables/CR_SignWriting.bin
+SHA-256-Digest: +uHeJnraa1ymugcS2jWSqr7rzpEpdwZdYeSRoOMCGzw=
+
+Name: tables/CR_Sinhala.bin
+SHA-256-Digest: +Y1PgeS3z0THtEUzgtY/A6iRwJINuFz1N2u+ugRZ7hQ=
+
+Name: tables/CR_Sk.bin
+SHA-256-Digest: WH0xBSPi6cOsaqXEHzKRJi5bOA5u6W3RNn+RF1GWwVg=
+
+Name: tables/CR_Sm.bin
+SHA-256-Digest: caWunb70oBS1IdzO9YCeDiBfVW0NUoTBY1cnJh+/PwQ=
+
+Name: tables/CR_So.bin
+SHA-256-Digest: bz4lUFyN7Z0RRJQcb20NUS8pIIzVuFej+bKDHG+vRSU=
+
+Name: tables/CR_Soft_Dotted.bin
+SHA-256-Digest: lCBaBQRSDJmhoYx+7Eo695SCLKZLB96MXA4rj2WphpA=
+
+Name: tables/CR_Sogdian.bin
+SHA-256-Digest: UnJFZLJ/8sDfq5KJ27QjAPcQBriLUKIo5587+jMhAQ8=
+
+Name: tables/CR_Sora_Sompeng.bin
+SHA-256-Digest: uL3uQQomgPQ3/Z+drf8K4bkUkuFOY3Q8vPQfHc8xf2M=
+
+Name: tables/CR_Soyombo.bin
+SHA-256-Digest: ZozidK7P7/P771+j9Dzss2OeHVo7ca/T3L3shS7RQAQ=
+
+Name: tables/CR_Space.bin
+SHA-256-Digest: dCn0DHUgeb35cl493TZLnfqm2l8c16zH2yVrDChjLNA=
+
+Name: tables/CR_Sundanese.bin
+SHA-256-Digest: VptksVoDguztUCF5w0m7V2R309VyXtKhI2zeSfImzu4=
+
+Name: tables/CR_Syloti_Nagri.bin
+SHA-256-Digest: +yK3UPm/ilVFfLot93k4tXBIblFRTszLP3NfGcQ6vT8=
+
+Name: tables/CR_Syriac.bin
+SHA-256-Digest: rNzcRb30UEkws8tXBtGxEPCscc8rCZqD7fceKW7OToY=
+
+Name: tables/CR_Tagalog.bin
+SHA-256-Digest: iCY9Yc97J5kxJ3BSk7oo2UEcrG3cWENjSocoO+V2xSE=
+
+Name: tables/CR_Tagbanwa.bin
+SHA-256-Digest: c16h0kywJ86ho7rPF5vEPONFaCW4BV0fFXB34tr6lt8=
+
+Name: tables/CR_Tai_Le.bin
+SHA-256-Digest: hBu0UwkRLhuaUpKlOX+05mAHmXS8os/xuneVrye+vUI=
+
+Name: tables/CR_Tai_Tham.bin
+SHA-256-Digest: rKpqny7PgWkVqkGkvzaRil2J7qodpLQmG4i1kbZeAyY=
+
+Name: tables/CR_Tai_Viet.bin
+SHA-256-Digest: QRvI/a2RWTPJ36Y5+YqlD9TmLM6DSgu4jFML+QvoSRE=
+
+Name: tables/CR_Takri.bin
+SHA-256-Digest: 9Y/FUT0BgE40hyBM54xj39vfgGoYH+jrusL/SFwmkBs=
+
+Name: tables/CR_Tamil.bin
+SHA-256-Digest: s1ZkEdjdm45InaQ5gHgCgFTFfnkX5y/vgzQLkWaLyys=
+
+Name: tables/CR_Tangsa.bin
+SHA-256-Digest: 8mQUewKPM63P2WS01k8uIc8Cxbpjyu1hhg9FTU15mJk=
+
+Name: tables/CR_Tangut.bin
+SHA-256-Digest: t55m/ITXti8rauehjUDciC3kg8YP0uCuGPJVzb9e6yw=
+
+Name: tables/CR_Telugu.bin
+SHA-256-Digest: ykbBFl9A3mE66Poy/xDtZuzrTAUOffBiNE1K4uIz5fg=
+
+Name: tables/CR_Terminal_Punctuation.bin
+SHA-256-Digest: eT4UYCiFSkuBy/WdYaxGREu+g5ZJSTO4J5QuDyyq9mE=
+
+Name: tables/CR_Thaana.bin
+SHA-256-Digest: 8BXWtAptltcEThcFgt4GJTaMFGPw1RzU0Z17ImtOBjk=
+
+Name: tables/CR_Thai.bin
+SHA-256-Digest: a94KKxCXmxqVFdLVZRgQbwjEzgX2ImW3rG+Qm2nxbQA=
+
+Name: tables/CR_Tibetan.bin
+SHA-256-Digest: EfyrGncFCTHN3hlJ4QUal0TUW5uOXUsRyKsFX3xZvHg=
+
+Name: tables/CR_Tifinagh.bin
+SHA-256-Digest: 5LeAOFKwiPUkXdeJy69QJpiFjCN5trKgS3K20S6io5s=
+
+Name: tables/CR_Tirhuta.bin
+SHA-256-Digest: RppwNMtPDKMv2T6TgTix5IQqLtvD75qMb9xmrMAquUw=
+
+Name: tables/CR_Toto.bin
+SHA-256-Digest: H5/2HD9a6W0xhKR08oXR7wwdYD0p7QD6oQo9RbjRgKo=
+
+Name: tables/CR_Ugaritic.bin
+SHA-256-Digest: 4e7NBjzi/Rd6T33WKTNb6Vc4PiZXIkieVrgQZi2uiHM=
+
+Name: tables/CR_Unified_Ideograph.bin
+SHA-256-Digest: AXrnhjLAWxkoaJyoa5tAtf6sH59u+YoMsVyUd545EJo=
+
+Name: tables/CR_Unknown.bin
+SHA-256-Digest: ++G1+8GL91HeCg6CXOfNHEMU0HMoUAb499zkrIcv7H8=
+
+Name: tables/CR_Upper.bin
+SHA-256-Digest: 0sZamIbLI2RixFiMViT3av5vUdFphK8JibEqRmO/3AE=
+
+Name: tables/CR_Vai.bin
+SHA-256-Digest: iKIJxBy25FHl3TfisT+cnLdH+pImfwmY+ry5TtDaxa4=
+
+Name: tables/CR_Variation_Selector.bin
+SHA-256-Digest: Z+XhzI1y6CUkTMbsjmZMbiPaAMa3/cs08QfsBNfzSWk=
+
+Name: tables/CR_Vithkuqi.bin
+SHA-256-Digest: H7PGwwf21owSpW1YkhTbOrnhX0emybYaxvZM5OAyTvI=
+
+Name: tables/CR_Wancho.bin
+SHA-256-Digest: r3l8IsnA/neJIByxUaq9eTxz1gH3D0hlxD1SuixipYE=
+
+Name: tables/CR_Warang_Citi.bin
+SHA-256-Digest: rg11WQXmRupa22XwE648if2UOEh1+D3vs0L6FdN1gQg=
+
+Name: tables/CR_Word.bin
+SHA-256-Digest: wLiGqXrD7lGZbX1kaq4puqtLTvcW2EAoisI7ibit7NE=
+
+Name: tables/CR_XDigit.bin
+SHA-256-Digest: Fgf+K47M3tGR/Owd31s7MBmcoMVjGpNt4/rKCg1lGnM=
+
+Name: tables/CR_XID_Continue.bin
+SHA-256-Digest: e738aQ0z+UdrsF1Ys3uoXw9y0PedvudmBGt5Br8uaYI=
+
+Name: tables/CR_XID_Start.bin
+SHA-256-Digest: Fn9mgk0UV9v1/lhn3GpKaCYazV5ZfLO7i+6Z8J5o2IA=
+
+Name: tables/CR_XPosixPunct.bin
+SHA-256-Digest: gs1wwbUkReYpPC9C6JpdMHKx17499V2NabBasJu0Od0=
+
+Name: tables/CR_Yezidi.bin
+SHA-256-Digest: ELR4DEXixBGb9hpmbxX5p0XfRPFBKSM1Aj1UX85N29k=
+
+Name: tables/CR_Yi.bin
+SHA-256-Digest: sHsrndNtCa6WJZERByHpXPbyuySrYFZJCMR1AeTh4s8=
+
+Name: tables/CR_Z.bin
+SHA-256-Digest: spDx4L+v4f4yMDHJcDKjwqQolyShbQpT1Lh6AlZjwzQ=
+
+Name: tables/CR_Zanabazar_Square.bin
+SHA-256-Digest: NlkhTONAqkNt9osYbgY08Z+MN3KJUOa2DvAO5Zf5MqQ=
+
+Name: tables/CR_Zl.bin
+SHA-256-Digest: bVuPnUyCen8DM4ALeje88HXElJpLxq6c+BH7eKTcWMo=
+
+Name: tables/CR_Zp.bin
+SHA-256-Digest: d4iG7vRx8ISIqfF/RHa7kUPqvrb8Dbl12lU/9ZsLo6w=
+
+Name: tables/CR_Zs.bin
+SHA-256-Digest: ZSc6Q7PfTxZDVNTBRilxy7enXwifRsvdg1qs+TMRtJ8=
+
+Name: tables/CaseFold.bin
+SHA-256-Digest: hRc4vsUCNSwzf7dYTh9hWlRkXfPu6Z68wpc5tTL+ljs=
+
+Name: tables/CaseMappingSpecials.bin
+SHA-256-Digest: 2Ioj9ezfKpjNX8vPWj4jkUFLZ73dqoxxaV+sWCeUOn0=
+
+Name: tables/CaseUnfold_11.bin
+SHA-256-Digest: +ZrzYRHFrbWUVpO1JvDeCui4QAOwnhUTJKchKmCG1Ro=
+
+Name: tables/CaseUnfold_11_Locale.bin
+SHA-256-Digest: XFu99atsZMz3AX+xsUGDj8bbYPnSk4H4k7x/J+aLIyo=
+
+Name: tables/CaseUnfold_12.bin
+SHA-256-Digest: /Pefc6s/0JvJ2D6YEozWUVdBjnub005Ygkbpvl3hGio=
+
+Name: tables/CaseUnfold_12_Locale.bin
+SHA-256-Digest: 94yM7jbqn6u8clXW2Dq162+i1w1DPa+IIEh/TkZPiio=
+
+Name: tables/CaseUnfold_13.bin
+SHA-256-Digest: 9Mq8d0wrZ0cNMfj/QrhUxcRb/HUc4jtcSScg0JkMhh8=
+
+Name: tables/Transcoder_Big5_ByteArray.bin
+SHA-256-Digest: VcHzGQF56FAwxCLEw48xyQC6ZTTsD6HTVdIZcMpFdS4=
+
+Name: tables/Transcoder_Big5_WordArray.bin
+SHA-256-Digest: oKeSeHfDzrfvMDnUiYuqGyxdrWU6tfq9yauRstD1vQw=
+
+Name: tables/Transcoder_Cesu8_ByteArray.bin
+SHA-256-Digest: RJ+lRa2DGLLibzNXRwhdam8NxcwMLIIReC1j0YhSlZ4=
+
+Name: tables/Transcoder_Cesu8_WordArray.bin
+SHA-256-Digest: uJ1/41yjuLB3775Dg1wi8H/qAbpTCEseuzwekFcG44M=
+
+Name: tables/Transcoder_Chinese_ByteArray.bin
+SHA-256-Digest: VPTBDkicKcmvEyNblc2R1uOSKj0c+zsFHIVJDNsuzLw=
+
+Name: tables/Transcoder_Chinese_WordArray.bin
+SHA-256-Digest: RIyzycs6CTQGmDJ/5Zb9VJVUWKnSA8hURrOV+pZ+A+s=
+
+Name: tables/Transcoder_Ebcdic_ByteArray.bin
+SHA-256-Digest: KPlMhFL6cAUt5CWVcbCXSpwpn5B59tNejPv1Imu9qUw=
+
+Name: tables/Transcoder_Ebcdic_WordArray.bin
+SHA-256-Digest: IASbJoT1pWpYm9z+a38PB/Tp0PQY26KwemgbF09Rv+4=
+
+Name: tables/Transcoder_EmojiIso2022Kddi_ByteArray.bin
+SHA-256-Digest: Pfq6pNBbuoXDOt0I5W101gz7diVROvHnZ/fsrh4VBxs=
+
+Name: tables/Transcoder_EmojiIso2022Kddi_WordArray.bin
+SHA-256-Digest: XCUvHUq7Kp78uYmMHN+FAhE0nd0KAlVpMNCzpy8zbYQ=
+
+Name: tables/Transcoder_EmojiSjisDocomo_ByteArray.bin
+SHA-256-Digest: ejahW7XArERWRg9xfv3n48WGdj3aRc2syRPqunvsevU=
+
+Name: tables/Transcoder_EmojiSjisDocomo_WordArray.bin
+SHA-256-Digest: pkDZVn3AnhMNmADQaGEnvJddaP5EJwhdqkOGACXLKvA=
+
+Name: tables/Transcoder_EmojiSjisKddi_ByteArray.bin
+SHA-256-Digest: urYpyI2CGIX/3cOqDw+xQuJwcXOvaBTvvYQoHepJxqs=
+
+Name: tables/Transcoder_EmojiSjisKddi_WordArray.bin
+SHA-256-Digest: g+TUQQmlt2vOyQht3aBbmtrtomozBnvyrdLfR3iS1z0=
+
+Name: tables/Transcoder_EmojiSjisSoftbank_ByteArray.bin
+SHA-256-Digest: ejahW7XArERWRg9xfv3n48WGdj3aRc2syRPqunvsevU=
+
+Name: tables/Transcoder_EmojiSjisSoftbank_WordArray.bin
+SHA-256-Digest: GvhXvXne24Jj+5uhIPH/zRxY8J2tPqlGhZXAwgkXZQw=
+
+Name: tables/Transcoder_Emoji_ByteArray.bin
+SHA-256-Digest: D3oy4445rV70yImXK/jpfp5gFYYG4MV5ClYeiIACnLw=
+
+Name: tables/Transcoder_Emoji_WordArray.bin
+SHA-256-Digest: eTTvGjKlsGwj0aJsqwmwcvcCEpRejLk+g7kOm6ruzR0=
+
+Name: tables/Transcoder_Escape_ByteArray.bin
+SHA-256-Digest: uRnF+nYR3/Bs+OSLtfLmMv3vT0siXV/2Rzo/dHms81U=
+
+Name: tables/Transcoder_Escape_WordArray.bin
+SHA-256-Digest: qvJPYMtJ6uKAdT/nGnQZso0TkbEqbGr9rZwxCpM3h5w=
+
+Name: tables/Transcoder_Gb18030_ByteArray.bin
+SHA-256-Digest: mhmajCmGKfKOjjEpyH3Iqgdl0+r1D4F4p4rW2taMIgI=
+
+Name: tables/Transcoder_Gb18030_WordArray.bin
+SHA-256-Digest: vnfioxdDa4ZQuMLZjKf3/2wXn95VtUJQlrTyW5pMdWw=
+
+Name: tables/Transcoder_Gbk_ByteArray.bin
+SHA-256-Digest: uFJHYCgsVs/Z01koijHUoz2o375T2xhKwOzaVTGSYAs=
+
+Name: tables/Transcoder_Gbk_WordArray.bin
+SHA-256-Digest: bnjQY42voWnXrJqyZ7zgGG2cfjeB1sNWZrgdfjQT4SI=
+
+Name: tables/Transcoder_Iso2022_ByteArray.bin
+SHA-256-Digest: jbdXj/uUxqaRHPGtB12+3z6e1hgsvXftSLXQ22rEVhc=
+
+Name: tables/Transcoder_Iso2022_WordArray.bin
+SHA-256-Digest: aJCPcqlsuJFK4rkNYKi29sbYWMPki1J8/K1ZE6P0nUg=
+
+Name: tables/Transcoder_JapaneseEuc_ByteArray.bin
+SHA-256-Digest: TF6TQFldVaZrb5sHX+ims5aHsu7cBD1T6hGB1twLmNM=
+
+Name: tables/Transcoder_JapaneseEuc_WordArray.bin
+SHA-256-Digest: WYNAJACxuwiLA4n25UCxbx0hoVFaDS+VftJfsVp74Rk=
+
+Name: tables/Transcoder_JapaneseSjis_ByteArray.bin
+SHA-256-Digest: EcPzPhgNFlJ3vl4dtzXjvvoK9SJtlCMyj0ZZrxIje1Y=
+
+Name: tables/Transcoder_JapaneseSjis_WordArray.bin
+SHA-256-Digest: TwI2u5YJkk23Da2LxaOP7Lak17JfEDJbCDExo4Z3VAU=
+
+Name: tables/Transcoder_Japanese_ByteArray.bin
+SHA-256-Digest: 1oeVvRUvSX4sQCQTSC8Pk4xAryoLM6UPsC9GDXpy1n4=
+
+Name: tables/Transcoder_Japanese_WordArray.bin
+SHA-256-Digest: OHLCVFFiQ0ciCijRUA3JTfd82MI3C3NONCTDXka0kHA=
+
+Name: tables/Transcoder_Korean_ByteArray.bin
+SHA-256-Digest: QZyzepG0Y3RA82nbwsbVnAjizvySfM0OO7Bb5LYaU9c=
+
+Name: tables/Transcoder_Korean_WordArray.bin
+SHA-256-Digest: WbgQ050GOD4M3xlpRxyn5q3M9uWT3RMp2u9w8JtTQoQ=
+
+Name: tables/Transcoder_Newline_ByteArray.bin
+SHA-256-Digest: AFunmX9KkvFTaemlap+L/fok57jh3xPnbCJaY5sovmI=
+
+Name: tables/Transcoder_Newline_WordArray.bin
+SHA-256-Digest: /qaelDVQyJnMy/VIUJAF3VhC5BIHYaTTbBItYOkbhLo=
+
+Name: tables/Transcoder_SingleByte_ByteArray.bin
+SHA-256-Digest: yk+RgkIOTqL9fTr+NISii4uecXPPRGZmT4V0kvdqEzQ=
+
+Name: tables/Transcoder_SingleByte_WordArray.bin
+SHA-256-Digest: 2p8rw4jfTEOnsGO+DpsrHsuxqWpRyJK78xsdCaqGB98=
+
+Name: tables/Transcoder_Utf1632_ByteArray.bin
+SHA-256-Digest: KRrP5QLimTXF/s8gXCV59+I1TIXrBAoibY1roP1vSiM=
+
+Name: tables/Transcoder_Utf1632_WordArray.bin
+SHA-256-Digest: 1UcyzSzSgiyweBAIgeGPQ5APpzab8IQd0oqR7//ZvLU=
+
+Name: tables/Transcoder_Utf8Mac_ByteArray.bin
+SHA-256-Digest: V3a5LVQd7C9ASOoGTseNjJzMZ9nQIgl2gpv5W0odiy4=
+
+Name: tables/Transcoder_Utf8Mac_WordArray.bin
+SHA-256-Digest: NOmsY+XCA8EO56PDt1hArMAUjkJHY68tTqJZCCFia6U=
+
+Name: virtualedges.xml
+SHA-256-Digest: 4++FZgdhbAEf4D49nVV3HyX3CUyHHE/DZyX/6isJSJc=
+
